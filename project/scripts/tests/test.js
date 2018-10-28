@@ -7,16 +7,17 @@
 var DataFrame = dfjs.DataFrame;
 var Row = dfjs.Row;
 
-function showCols(df, dfCols, name=null) {
+function showCols(df, dfCols, name, callBack = null) {
     var div = $("#mainBox");
     if (name !== null) {div.append($("<div></div>").append($("<p></p>")).text(name));}
     var select = dropDown(df, dfCols);
     var container = $("<div></div>").addClass("w3-row");
     container.append($("<div></div>").append(select).addClass("w3-cell"));
     var displayDiv = $("<div></div>").text(select.val()).addClass("w3-cell");
-    select.on({change: function (e) {
-            displayDiv.text($(this).val());
-    }});
+    if (callBack === null) {
+        callBack = function (e) {displayDiv.text($(this).val());};
+    }
+    select.on({change: callBack});
     container.append(displayDiv);
     div.append(container);
 }
@@ -76,6 +77,64 @@ function dropDown(dfTar, dfColNames) {
     return select;
 }
 
+function addChart(df, col, colClasses=null) {
+    var div = $("<div></div>").attr("style", "width:400px; height:300px");
+    $("#mainBox").append(div);
+    createChart(div, df, col, colClasses);
+    return div;
+}
+
+function createChart(div, df, col, colClasses=null) {
+    var options = {
+        axisX: {
+            title: col
+        },
+        axisY: {
+            title: "Number of entries"
+        },
+        data: getBinsFromClasses(df, 50, col, colClasses)
+    };
+    div.CanvasJSChart(options);
+}
+
+function getBinsFromClasses(df, nBins, colData, colClass = null) {
+    if (colClass === null) {return [{type: "line", dataPoints: getBins(df.toArray(colData), nBins)}];}
+    var classes = df.select(colClass).dropDuplicates().toArray(colClass);
+    var values = df.toArray(colData);
+    var data = [];
+    var vmin = Math.min(...values), vmax = Math.max(...values);
+    classes.map(function (c) {
+        data.push({
+            type: "line", 
+            dataPoints: getBinsFromBounds(
+                df.where(row => row.get(colClass) === c).toArray(colData), 
+                vmin,
+                vmax, 
+                nBins
+            )
+        });
+    });
+    return data;
+}
+
+function getBins(data, nBins=50) {
+    var vmin = Math.min(...data), vmax = Math.max(...data), dv = (vmax - vmin) / nBins;
+    return getBinsFromBounds(data, vmin, vmax, nBins);
+}
+
+
+function getBinsFromBounds(data, vmin, vmax, nBins) {
+    var dv = (vmax - vmin) / nBins;
+    var dataBins = [];
+    for (var v = vmin; v < vmax; v += dv) {
+        dataBins.push({x: v, y: 0});
+    }
+    data.map(function (v) {
+        dataBins[Math.min(nBins-1, Math.floor((v - vmin) / dv))].y ++;
+    });
+    return dataBins;
+}
+
 
 $.when(
     DataFrame.fromText('../data/Table_repas.csv', ";"),
@@ -90,9 +149,10 @@ $.when(
     DataFrame.fromText('../data/Data_names_all.csv', ";")
 )
     .then(function (dfRepas, dfMenage, dfIndNut, dfIndCA, dfInd, dfConso, dfCarnetCA, dfCapiCA, dfNomenclature, dfColNames) {
+        var chartDiv = addChart(dfIndNut, "aet", "sexe_ps");
+        showCols(dfIndNut, dfColNames, "Indication nutriments (CHANGE ME)", function (e) {createChart(chartDiv, dfIndNut, $(this).val(), "sexe_ps");});
         showCols(dfNomenclature, dfColNames, "Nomenclature");
         showCols(dfIndCA, dfColNames, "Indice Compléments Alimentaires");
-        showCols(dfIndNut, dfColNames, "Indication nutriments");
         show(dfRepas, "Repas");
         show(dfMenage, "Menage");
         show(dfIndNut, "Individu Nutrition");

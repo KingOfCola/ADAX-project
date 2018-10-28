@@ -1,6 +1,6 @@
 <?php include("../core/meta.php");?>
 <!-- Tests -->
-    <script src="../scripts/documentLoad/tests.js"></script> 
+    <script src="../scripts/documentLoad/graphs.js"></script> 
     <div class="w3-rest w3-cell w3-container">
         <div id="mainBox"></div>
     </div>

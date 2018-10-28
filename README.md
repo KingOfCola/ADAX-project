@@ -13,8 +13,10 @@ How is impacted a consumer habits based on the advertising?
 # Dataset
 (List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.)
 ## To change
-https://www.data.gouv.fr/fr/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3/?fbclid=IwAR0QcjTQdH2N2xIXL_xTLHuUIx5YFVWKNOJ4PqetIzeLoq5HNbnSTTre_d8 (several MegaBytes, quite well organized, just needs category mapping and column names explanations).
-OpenFoodFacts (Not checked yet)
+<ul>
+<li>https://www.data.gouv.fr/fr/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3/?fbclid=IwAR0QcjTQdH2N2xIXL_xTLHuUIx5YFVWKNOJ4PqetIzeLoq5HNbnSTTre_d8 (several MegaBytes, quite well organized, just needs category mapping and column names explanations).</li>
+<li>OpenFoodFacts (Not checked yet)</li>
+</ul>
 
 # A list of internal milestones up until project milestone 2
 (Add here a sketch of your planning for the next project milestone.)

@@ -1,0 +1,657 @@
+﻿Nom de la variable;Type;Libellé du codage;Libellé de la variable
+achapub;Numérique;pub;Demande à acheter des produits pour lesquels il a vu une publicité
+achpub1;Numérique;achpub;A acheté Aliment 1 - Publicité
+achpub2;Numérique;achpub;A acheté Aliment 2 - Publicité
+achpub3;Numérique;achpub;A acheté Aliment 3 - Publicité
+achpub4;Numérique;achpub;A acheté Aliment 4 - Publicité
+achpub5;Numérique;achpub;A acheté Aliment 5 - Publicité
+achpub6;Numérique;achpub;A acheté Aliment 6 - Publicité
+acolach;Numérique;onsp;Les aliments du matin sont achetés en venant à l'école
+acolachecol;Numérique;onsp;Les aliments du matin sont achetés à l'école
+acolecol;Numérique;onsp;Les aliments du matin sont fournis gratuitement par l'école
+acolenfs;Numérique;onsp;Les aliments du matin sont amenés par tous les enfants de la classe
+acolmais;Numérique;onsp;Les aliments du matin sont amenés avec toi le matin
+acolmat1;Texte;;Aliment 1 le + consommé entre PDJ et DEJ
+acolmat1_cod;Numérique;;Aliment 1 le + consommé entre PDJ et DEJ - code INCA
+acolmat1_gr;Numérique;groupe;Aliment 1 le + consommé entre PDJ et DEJ - groupe INCA
+acolmat2;Texte;;Aliment 2 le + consommé entre PDJ et DEJ
+acolmat2_cod;Numérique;;Aliment 2 le + consommé entre PDJ et DEJ - code INCA
+acolmat2_gr;Numérique;groupe;Aliment 2 le + consommé entre PDJ et DEJ - groupe INCA
+acolmat3;Texte;;Aliment 3 le + consommé entre PDJ et DEJ
+acolmat3_cod;Numérique;;Aliment 3 le + consommé entre PDJ et DEJ - code INCA
+acolmat3_gr;Numérique;groupe;Aliment 3 le + consommé entre PDJ et DEJ - groupe INCA
+acolmat4;Texte;;Aliment 4 le + consommé entre PDJ et DEJ
+acolmat4_cod;Numérique;;Aliment 4 le + consommé entre PDJ et DEJ - code INCA
+acolmat4_gr;Numérique;groupe;Aliment 4 le + consommé entre PDJ et DEJ - groupe INCA
+act_phy;Numérique;onsp;Représentant de l'enfant actif physiquement ?
+age_chefq;Numérique;;Age du chef de ménage
+age_cheft;Numérique;agechef;Classe d'âge du chef de ménage
+agefumea;Numérique;;A quel âge a commencé à fumer régulièrement (ancien fumeur)
+agefumeansp;Numérique;;NSP à quel âge a commencé à fumer régulièrement (ancien fumeur)
+agefumem;Numérique;;A quel âge a commencé à fumer régulièrement (fumeur actuel)
+agefumemnsp;Numérique;;NSP à quel âge a commencé à fumer régulièrement (fumeur actuel)
+agepmax;Numérique;;Age auquel le poids maxi a été atteint
+agepmaxnsp;Numérique;;NSP à quel âge le poids maxi a été atteint
+agepmin;Numérique;;Age auquel le poids mini a été atteint
+agepminnsp;Numérique;;NSP à quel âge le poids mini a atteint
+agestop;Numérique;;A quel âge a arrêté de fumer définitivement (ancien fumeur)
+agestopnsp;Numérique;;NSP à quel âge a arrêté de fumer définitivement (ancien fumeur)
+agglo5;Numérique;a5gglo;Catégorie d'agglomération (5 modalités)
+agglo9;Numérique;a9gglo;Catégorie d'agglomération (9 modalités)
+agncuis;Numérique;cuiviand;Degré de cuisson agneau (gigot, épaule)
+alimpub1;Texte;;Aliment 1 - Publicité
+alimpub1_cod;Numérique;;Aliment 1 - Publicité - code INCA
+alimpub1_gr;Numérique;groupe;Aliment 1 - Publicité - groupe INCA
+alimpub2;Texte;;Aliment 2 - Publicité
+alimpub2_cod;Numérique;;Aliment 2 - Publicité - code INCA
+alimpub2_gr;Numérique;groupe;Aliment 2 - Publicité - groupe INCA
+alimpub3;Texte;;Aliment 3 - Publicité
+alimpub3_cod;Numérique;;Aliment 3 - Publicité - code INCA
+alimpub3_gr;Numérique;groupe;Aliment 3 - Publicité - groupe INCA
+alimpub4;Texte;;Aliment 4 - Publicité
+alimpub4_cod;Numérique;;Aliment 4 - Publicité - code INCA
+alimpub4_gr;Numérique;groupe;Aliment 4 - Publicité - groupe INCA
+alimpub5;Texte;;Aliment 5 - Publicité
+alimpub5_cod;Numérique;;Aliment 5 - Publicité - code INCA
+alimpub5_gr;Numérique;groupe;Aliment 5 - Publicité - groupe INCA
+alimpub6;Texte;;Aliment 6 - Publicité
+alimpub6_cod;Numérique;;Aliment 6 - Publicité - code INCA
+alimpub6_gr;Numérique;groupe;Aliment 6 - Publicité - groupe INCA
+allaite;Numérique;onsp;Allaite actuellement un enfant ?
+aptotal_hebdo;Numérique;;Activité physique TOTALE hebdo. (en mn)
+aptotal_met;Numérique;;Intensité de l'activité physique TOTALE (en MET)
+assis_j;Numérique;;Durée passée assis/jour (en mn)
+atrav;Numérique;onref;Interviewé - A déjà exercé une profession
+autcant_cod;Numérique;autcant;Autre raison pour ne pas aller à la cantine - codé
+autdist_cod;Numérique;autdist;Autre aliment acheté dans les distributeurs - codé
+autinfo_cod;Numérique;autinfo;Si Sources autres - codé
+autintali_cod;Numérique;autintal;Quel autre intérêt? - codé
+autlieudej;Texte;;Autre lieu pour votre repas de midi
+autreg_cod;Numérique;autreg;Autre raison pour suivre régime - codé
+autregmedic_cod;Numérique;autregme;Quelle raison médicale (autre que poids)? - codé
+bmi;Numérique;;Indice de masse corporelle
+boeufcru;Numérique;consocru;Consomme de la viande de boeuf crue (tartare,
+carpaccio...) boeufcuis;Numérique;cuiviand;Degré de cuisson boeuf (steak, entrecôte, côte)
+bonalim;Numérique;onsp;Pense avoir une bonne alimentation pour sa santé
+cantaill;Numérique;onsp;Ses parents lui ont proposé mais n'a pas voulu car préfère manger ailleurs
+cantaut;Numérique;onsp;Autre raison
+cantcher;Numérique;onsp;Les repas y sont trop chers
+cantdom;Numérique;onsp;Une personne du foyer est présente à la maison pour lui préparer les repas
+cantnequil;Numérique;onsp;Pense que les repas n y sont pas équilibrés
+cantnm;Numérique;onsp;A essayé et n'aime pas
+cantnprop;Numérique;onsp;Ses parents ne lui ont pas proposé
+cantnsani;Numérique;onsp;Pense que les repas n'y sont pas de bonne qualité sanitaire
+cantnsp;Numérique;onsp;Vous ne savez pas
+cantnveut;Numérique;onsp;Il ne veut pas y déjeuner
+cantproch;Numérique;onsp;L'école est proche du domicile
+cantsant;Numérique;onsp;A des problèmes de santé nécessitant une alimentation particulière
+chef;Numérique;onsp;Personne interrogée est le chef de famille (oui/non)
+chevcru;Numérique;consocru;Consomme de la viande de cheval crue (tartare)
+chevcuis;Numérique;cuiviand;Degré de cuisson cheval (steak, rôti)
+cible;Numérique;cible;Groupe d'âge de la personne sélectionnée
+clage;Numérique;classe d'âge;
+clas11_14;Numérique;c11lassb;Classe de l'enfant - ENF11-14
+clas15_17;Numérique;c15lassb;Classe de l'enfant - ENF15-17
+clas3_10;Numérique;c3lassb;Classe de l'enfant - ENF3-10
+colmata;Numérique;colmata;Fréquence de conso. moyenne entre PDJ et DEJ
+colmatecol;Numérique;colmatb;En moyenne, avec quelle fréquence mange entre le PDJ et le DEJ
+contalim;Numérique;onsp;Contrôle son poids en modifiant son alimentation
+contap;Numérique;onsp;Contrôle son poids en augmentant son activité physique
+contmed;Numérique;onsp;Contrôle son poids avec des médicaments, des compl. alim.
+contsubt;Numérique;onsp;Contrôle son poids en prenant des substituts de repas
+cotagncuis;Numérique;cuiviand;Degré de cuisson côtes d'agneau
+creche;Numérique;pasecole;Si pas à l'école, enfant va-t-il ? - ENF3-10
+cspi;Numérique;pcs;PCS INTERVIEWE
+cyclepds;Numérique;cycle;A déjà perdu puis repris au moins 10 kg depuis âge de 20 ans (sauf grossesse)
+dip;Numérique;diplome;Interviewé - diplôme d enseignement général ou technique le plus élevé
+distaut;Numérique;onsp;Autre achat au distributeur
+distbar;Numérique;onsp;Achat au distributeur de barres chocolatées
+distbiss;Numérique;onsp;Achat au distributeur de biscuits salés
+distconf;Numérique;onsp;Achat au distributeur de confiseries
+disteaum;Numérique;onsp;Achat au distributeur d'eaux minérales
+distfruit;Numérique;onsp;Achat au distributeur de fruits frais
+distgat;Numérique;onsp;Achat au distributeur de biscuits sucrés
+distjus;Numérique;onsp;Achat au distributeur de jus de fruits
+distrib;Numérique;distrib;Achat d'aliments ou boissons fraiches dans distributeurs auto.
+distsoda;Numérique;onsp;Achat au distributeur de sodas
+distsoli;Numérique;onsp;Achat au distributeur de sodas light
+dlcpl;Numérique;dlc;Généralement, consomme les plats cuisinés au plus tard ...
+ech;Numérique;echant;Echantillon (adultes/enfants)
+enceinte;Numérique;onsp;Est actuellement enceinte ?
+enceinte12;Numérique;onsp;A été enceinte au cours des 12 derniers mois ?
+enrich;Numérique;enrichis;Conso. préférentielle d'aliments enrichis (vitamines, minéraux, autres subst.)
+entrerep;Numérique;entrerep;Fréquence de conso. moyenne entre les 3 repas principaux
+essaipds;Numérique;essai;Depuis 1 an, a essayé de ...
+etiqclnut;Numérique;etiquet;Lit les messages nutritionnels revendiqués par le produit
+etiqclsant;Numérique;etiquet;Lit les messages décrivant effet sur la santé de l'aliment ou nutriment
+etiqingr;Numérique;etiquet;Lit la liste des ingrédients ds produit
+etiqnut;Numérique;etiquet;Lit le contenu nutritionnel du produit
+etiqport;Numérique;etiquet;Lit les informations relatives aux portions
+etiquetad;Numérique;tsrj;Lit les étiquettes des aliments achetés
+etiquetenf;Numérique;tsrj;Lis les étiquettes des aliments
+fastfood;Numérique;fastfood;Fréquence moyenne de repas dans fast-food
+ffrepas;Numérique;raisonff;Raison de repas au fast-food
+foiecuis;Numérique;cuiviand;Degré de cuisson foie (génisse, veau)
+fqcantine;Numérique;cantine;Fréquence de conso. à la cantine le midi en période scolaire
+fqcigta;Numérique;b39cig2f;Fréquence de conso. de cigarettes (en tranches, ancien fumeur)
+fqcigtm;Numérique;b39cig2f;Fréquence de conso. de cigarettes (en tranches, fumeur actuel)
+fqfec;Numérique;b11f;Fréquence de consommation de pain, céréales, PDT, lég. secs
+fqfl;Numérique;b12f;Fréquence de consommation de fruits, légumes
+fqpl;Numérique;b11f;Fréquence de consommation de lait, pdts laitiers
+fqvpo;Numérique;b11f;Fréquence de consommation de viandes, volailles, poissons, oeufs
+fume;Numérique;tabac;Fume, même de temps en temps ?
+grasjambon;Numérique;onsp;Mange le gras du jambon
+heur_trav;Numérique;best12;Interviewé - Nb heures travaillées la semaine dernière
+infoami;Numérique;onsp;Obtient infos sur alim. par des amis
+infoaut;Numérique;onsp;Obtient infos sur alim. par d'autres sources
+infoembal;Numérique;onsp;Information alimentation sur les emballages des produits
+infofami;Numérique;onsp;Obtient infos sur alim. par la famille
+infointern;Numérique;onsp;Obtient infos sur alim. par internet
+infolivre;Numérique;onsp;Obtient infos sur alim. par des livres
+infomed;Numérique;onsp;Obtient infos sur alim. par des médecins
+infopharm;Numérique;onsp;Obtient infos sur alim. par personnels de pharmacies, parapharmacies
+infopress;Numérique;onsp;Obtient infos sur alim. par la presse
+infoprof;Numérique;onsp;Obtient infos sur alim. par des professeurs (école, collège, lycée)
+infopub;Numérique;onsp;Obtient infos sur alim. par la publicité
+infotele;Numérique;onsp;Obtient infos sur alim. par des émissions de radio ou de télé
+intaliaut;Numérique;onsp;Autre intérêt
+intalicuisi;Numérique;onsp;Intérêt pour faire à manger soi-même
+intalifabr;Numérique;onsp;Intérêt pour savoir comment on fabrique les aliments
+intaliform;Numérique;onsp;Intérêt pour savoir ce qu'il faut manger pour être en forme
+intalim;Numérique;intalim;S'intéresse à l'alimentation
+intalinouv;Numérique;onsp;Intérêt pr goûter plats originaux, nouveaux ou exotiques
+intaliplais;Numérique;onsp;Intérêt pour manger pour se faire plaisir
+intaliregi;Numérique;onsp;Intérêt pour connaître les régimes pour maigrir ou ne pas prendre de poids
+intense_hebdo;Numérique;;Durée d'activité physique INTENSE hebdo. (en mn)
+intense_j;Numérique;;Durée d'activité physique INTENSE quotidienne (en mn)
+intense_met;Numérique;;Intensité d'activité physique INTENSE (en MET)
+intense_nbJ;Numérique;;Nombre de jours d'activité physique intense/semaine
+ipaq;Numérique;ipaqf;Score de l'IPAQ (1=bas, 2=modéré, 3=élevé)
+jour_demi;Numérique;;Nombre de demi-journée d'école/semaine - ENF3-14
+jour_entier;Numérique;;Nombre de journées entières d'école/semaine - ENF3-14
+jour_sans;Numérique;;Nombre de journées sans école/semaine - ENF3-14
+lardcru;Numérique;consocru;Consomme des lardons fumés crus
+lien_int_chef;Numérique;lienchfb;Lien de l'interviewé avec le chef du ménage
+lien_ps_chef;Numérique;lienchef;Lien de la personne sélectionnée avec le chef de ménage
+lien_rep_enf;Numérique;lienenfb;Lien du représentant avec l'enfant
+lieudej;Numérique;lieudej;Lieu habituel des repas de midi en semaine
+loc_log;Numérique;habitat;Localisation du logement
+marche_hebdo;Numérique;;Durée de MARCHE hebdo. (en mn)
+marche_j;Numérique;;Durée de MARCHE quotidienne (en mn)
+marche_met;Numérique;;Intensité de l'activité MARCHE (en MET)
+marche_nbJ;Numérique;;Nombre de jours de MARCHE/semaine
+menopaus;Numérique;onsp;Est ménopausée ?
+mfrom;Numérique;aime;Aime Le fromage
+mfruit;Numérique;aime;Aime Les fruits
+mglace;Numérique;aime;Aime Les glaces
+mjus;Numérique;aime;Aime Les jus de fruits
+mlait;Numérique;aime;Aime Le lait
+mleg;Numérique;aime;Aime Les légumes
+modere_hebdo;Numérique;;Durée d'activité physique MODEREE hebdo. (en mn)
+modere_j;Numérique;;Durée d'activité physique MODEREE quotidienne (en mn)
+modere_met;Numérique;;Intensité de l'activité physique MODEREE (en MET)
+modere_nbJ;Numérique;;Nombre de jours d'activité physique MODEREE/semaine
+moisgross;Numérique;;Nombre de mois de grossesse
+moisgrossnsp;Numérique;;NSP nombre de mois de grossesse
+mpois;Numérique;aime;Aime Le poisson
+msoda;Numérique;aime;Aime Les sodas
+mvian;Numérique;aime;Aime La viande
+myao;Numérique;aime;Aime Les yaourts
+nb_sal;Numérique;best12;Interviewé - Nb salariés employés si chef d'entreprise
+nbcigransp;Numérique;;NSP combien fume de cigares (ancien fumeur)
+nbcigrja;Numérique;;Nbr de cigares/jour (ancien fumeur)
+nbcigrjm;Numérique;;Nbr de cigares/jour (fumeur actuel)
+nbcigrmnsp;Numérique;;NSP combien fume de cigares (fumeur actuel)
+nbcigrsa;Numérique;;Nbr de cigares/semaine (ancien fumeur)
+nbcigrsm;Numérique;;Nbr de cigares/semaine (fumeur actuel)
+nbcigta;Numérique;b39cig1f;Nombre de cigarettes par jour (ancien fumeur)
+nbcigtm;Numérique;b39cig1f;Nombre de cigarettes par jour (fumeur actuel)
+nbgeneral;Numérique;consult;Nbr de consultations d'un généraliste au cours des 12 dern. mois
+nbjcc;Numérique;;Nombre de jours du carnet de consommation remplis
+nbpipeansp;Numérique;;NSP combien fume de pipes (ancien fumeur)
+nbpipeja;Numérique;;Nbr de pipes/jour (ancien fumeur)
+nbpipejm;Numérique;;Nbr de pipes/jour (fumeur actuel)
+nbpipemnsp;Numérique;;NSP combien fume de pipes (fumeur actuel)
+nbpipesa;Numérique;;Nbr de pipes/semaine (ancien fumeur)
+nbpipesm;Numérique;;Nbr de pipes/semaine (fumeur actuel)
+nbspecial;Numérique;consult;Nbr de consultations d'un spécialiste au cours 12 dern. mois
+nomen;Numérique;;Numéro d'individu
+nracol;Numérique;onsp;[Pas de réponse]
+nrcant;Numérique;onsp;Pas de réponse
+nrcont;Numérique;onsp;Pas de réponse - Contrôle son poids
+nrdist;Numérique;onsp;Achat au distributeur de pas de réponse
+nrentr;Numérique;onsp;Pas de réponse
+nrreg;Numérique;onsp;Pas de réponse
+nup;Numérique;;Taux de sondage des UP dans chaque strate
+oeufcru;Numérique;consocru;Consomme des oeufs crus (mayo. maison, mousse au choc. maison)
+opipoids;Numérique;opipoids;Actuellement, considère être ...
+ordi;Numérique;;Temps moyen quoditien devant ORDI (en mn)
+pasreg;Numérique;onsp;Ne suit pas de régime
+pays_nai;Numérique;paysb;Interviewé - pays de naissance
+pdsmax;Numérique;;Poids maxi depuis age de 20 ans
+pdsmaxnsp;Numérique;;NSP poids maxi depuis age de 20 ans
+pdsmin;Numérique;;Poids mini depuis age de 20 ans
+pdsminnsp;Numérique;;NSP poids mini depuis age de 20
+peaupommes;Numérique;onsp;Mange la peau des pommes
+peaupoulet;Numérique;onsp;Mange la peau du poulet
+poids;Numérique;;Poids en kg utilisé pour bmr
+poids12;Numérique;;Poids il y a 12 mois (en kg)
+poids12nsp;Numérique;;Ne sait plus son poids d'il y a 12 mois
+poidsd;Numérique;;Poids déclaré
+poidsm;Numérique;;Poids mesuré
+poiscru;Numérique;consocru;Consomme du poisson cru (sushi)
+pond_adu_ech;Numérique;;POND finale Adulte ramenée à l'échantillon
+pond_ech;Numérique;;POND finale Adultes/Enfants ramenée à l'échantillon
+pond_enf_ech;Numérique;;POND finale Enfant ramenée à l'échantillon
+porccru;Numérique;consocru;Consomme de la viande de porc crue
+porccuis;Numérique;cuiviand;Degré de cuisson porc (escalope, côte, rôti)
+q148;Numérique;habitude;Estime s'être dépensé… - ADULTES
+q152;Numérique;ecolea;La semaine dernière, votre enfant ... ? - ENF3-10
+q171;Numérique;onref;Regarde TV dans sa chambre - ENF3-10
+q180;Numérique;;Nb jours avec école jeux en plein air - ENF3-10
+q181;Numérique;;Nb jours peu ou sans école jeux en plein air - ENF3-10
+q182;Numérique;;Nb jours avec sport hors école - ENF3-10
+q183;Numérique;onsp;Participation compétition sport hors école - ENF3-10
+q184;Numérique;;Nb de jours avec activité culturelle - ENF3-10
+q185;Numérique;transp;Moyen de transport école/maison - ENF3-10
+q186;Numérique;eps;Cours d'EPS 7 derniers jours - ENF3-10
+q187;Numérique;recre;En cour de récréation votre enfant préfère ? - ENF3-10
+q188;Numérique;onsp;Votre enfant est-il actif ? - ENF3-10
+q189;Numérique;habitude;Estime que l'enfant s'est dépensé ... - ENF3-10
+q191;Numérique;;Volet activité physique - ENF11-14
+q192;Numérique;ecolea;La semaine dernière, tu es allé à l'école ... - ENF11-14
+q203;Numérique;;Nb jours activité physique intense - ENF11-14
+q204;Numérique;;Nb jours activité physique modérée - ENF11-14
+q213;Numérique;onref;Regarde TV dans sa chambre - ENF11-14
+q222;Numérique;;Nb de jours avec activité culturelle - ENF11-14
+q223;Numérique;transp;Moyen de transport école/maison - ENF11-14
+q224;Numérique;;Nb de jours avec cours d'EPS - ENF11-14
+q225;Numérique;actifeps;Pendant cours d'EPS, nb de mn effectivement actif(ve) - ENF11-14
+q226;Numérique;habitude;Estime s'être dépensé… - ENF11-14
+q249;Numérique;onref;Regarde TV dans sa chambre - ENF15-17
+q254;Numérique;habitude;Estime s'être dépensé… - ENF15-17
+q255;Numérique;;Nb de jours avec activité culturelle - ENF15-17
+reg;Numérique;regf;Région INCA2 (8 modalités)
+regagglo;Texte;;concaténation des variables reg et agglo5
+regaut;Numérique;onsp;Suit un régime pour une autre raison
+regform;Numérique;onsp;Suit un régime pour rester en forme
+regimedj;Numérique;onsp;A déjà suivi un régime pour perdre du poids
+regimem;Numérique;b22f;Suivi d'un régime alimentaire
+region;Numérique;region;Région (21 modalités)
+regmaig;Numérique;onsp;Suit un régime pour maigrir
+regmedic;Numérique;onsp;Suit un régime pour raisons médicales (autres que poids)
+regrelig;Numérique;onsp;Suit un régime par conviction personnelle ou religieuse
+regstab;Numérique;onsp;Suit un régime pour ne pas prendre de poids
+regvegr;Numérique;onsp;Suit un régime car végétarien
+regvegt;Numérique;onsp;Suit un régime car végétalien
+rotboeufcuis;Numérique;cuiviand;Degré de cuisson rôti de boeuf
+saison;Numérique;saisonf;Saison de l'enquête
+sauccru;Numérique;consocru;Consomme des saucisses en sachet crues
+sauccuis;Numérique;cuiviand;Degré de cuisson saucisses de porc
+sed;Numérique;;Temps moyen quotidien devant ORDI ou TELE (en mn)
+selassent;Numérique;sel;Ajout de sel ds assiette pour entrées
+selassfec;Numérique;sel;Ajout de sel ds assiette pour PDT, pâtes, riz ou légumes secs
+selassleg;Numérique;sel;Ajout de sel ds assiette pour légumes verts (frais, conserve, surgelés)
+selassoeuf;Numérique;sel;Ajout de sel ds assiette pour oeufs (omelette, oeuf sur le plat ...)
+selassvp;Numérique;sel;Ajout de sel ds assiette pour viandes ou poissons
+selassvps;Numérique;;Ajout de sel ds assiette pour viandes ou poissons en sauce, plats comp. maison
+self;Numérique;onsp;La cantine de l école est un self-service
+sexe_ps;Numérique;sexe;Sexe de la personne sélectionnée
+sexeps;Numérique;sexe;Sexe de la personne sélectionné
+shboeufcuis;Numérique;cuiviand;Degré de cuisson steak haché de boeuf
+situ_mat;Numérique;matrim;Interviewé - situation matrimoniale actuelle
+situ_prof;Numérique;situprof;Interviewé - situation professionnelle actuelle
+sousest1;Numérique;;Sous-estim (=1) avec eq Black
+sousest3;Numérique;;Sous-estim (=1) 3-15ans base sur log ec - 3 sd
+stat_empl;Numérique;statemp;Interviewé - type de cet emploi salarié, pdg
+statnut;Numérique;statnutf;Statut nutritionnel (0=normal/1=en surpoids/2=obèse)
+suc_boischoc;Numérique;typsuc;Type de sucre ajouté dans les boissons chocolatées
+suc_cafe;Numérique;typsuc;Type de sucre ajouté dans le café
+suc_froblanc;Numérique;typsuc;Type de sucre ajouté dans le fromage blanc
+suc_suisse;Numérique;typsuc;Type de sucre ajouté dans les petits suisses
+suc_the;Numérique;typsuc;Type de sucre ajouté dans le thé
+suc_yao;Numérique;typsuc;Type de sucre ajouté dans les yaourts nature
+tage;Numérique;age;Classe d'âge de la personne sélectionnée
+taille;Numérique;;Taille en cm utilisée pour bmr
+tele;Numérique;;Temps moyen quoditien devant TELE (en mn)
+ths;Numérique;onsp;Prend actuellement un traitement hormonal substitutif ?
+total_nbj;Numérique;;Nombre de jours d'activité physique TOTALE/semaine
+trav_nuit;Numérique;travnuit;Interviewé - travailler la nuit
+typ_empl;Numérique;typempla;Interviewé - type de cet emploi CDD, CDI
+typelait;Numérique;typlait;Type de lait généralement consommé
+up;Numérique;;Numéro d'UP (unité primaire)
+up2;Numérique;;numéro d'unité primaire avec séparation Paris/Banlieu
+v2_age;Numérique;;Age de la personnes sélectionnée
+v2_nbenf;Numérique;;Interviewé - nb enfants vivants
+vacances;Numérique;onsp;Interviewé - parti en vacances au cours des 12 derniers mois
+veaucuis;Numérique;cuiviand;Degré de cuisson veau (escalope, côte, rôti)
+voeupoids;Numérique;voeupoid;Souhaite peser
+volcru;Numérique;consocru;Consomme de la viande de volaille crue
+volcuis;Numérique;cuiviand;Degré de cuisson volaille (escalope, découpe)
+zeat;Numérique;zeat;Région ZEAT
+aet;Float;;Energie calorique totale table table CIQUAL avec polyols et acides orga. (kcal/j)
+ech;Float;;Echantillon (adultes/enfants)
+nomen;Float;;Numéro d'individu
+nutj10;Float;;Acides gras saturés (en g/j)
+nutj11;Float;;Amidon (en g/j)
+nutj12;Float;;Glucides simples (en g/j)
+nutj13;Float;;Fibres (en g/j)
+nutj14;Float;;Cholestérol (en mg/j)
+nutj15;Float;;Eau (en g/j)
+nutj16;Float;;Calcium (en mg/j)
+nutj17;Float;;Fer (en mg/j)
+nutj18;Float;;Sodium (en mg/j)
+nutj19;Float;;Magnésium (en mg/j)
+nutj20;Float;;Manganèse (en mg/j)
+nutj21;Float;;Phosphore (en mg/j)
+nutj22;Float;;Potassium (en mg/j)
+nutj23;Float;;Cuivre (en mg/j)
+nutj24;Float;;Zinc (en mg/j)
+nutj25;Float;;Sélénium (en μg/j)
+nutj26;Float;;Iode (en μg/j)
+nutj27;Float;;Rétinol (en μg/j)
+nutj28;Float;;Béta-carotène (en μg/j)
+nutj30;Float;;Vitamine C (en mg/j)
+nutj31;Float;;Vitamine D (en μg/j)
+nutj32;Float;;Vitamine E (en mg/j)
+nutj33;Float;;Vitamine B1 ou thiamine (en mg/j)
+nutj34;Float;;Vitamine B2 ou riboflavine (en mg/j)
+nutj35;Float;;Vitamine B3 ou niacine (en mg/j)
+nutj36;Float;;Vitamine B5 ou acide pantothénique (en mg/j)
+nutj37;Float;;Vitamine B6 ou pyridoxine (en mg/j)
+nutj38;Float;;Vitamine B9 ou folates (en μg/j)
+nutj39;Float;;Vitamine B12 ou colobamine (en μg/j)
+nutj4;Float;;Protéines (en g/j)
+nutj5;Float;;Glucides disponibles, y compris polyols (en g/j)
+nutj6;Float;;Lipides (en g/j)
+nutj7;Float;;Alcool (en g/j)
+nutj8;Float;;Acides gras mono-insaturés (en g/j)
+nutj9;Float;;Acides gras polyinsaturés (en g/j)
+sexe_ps;Float;sexe;Sexe de la personne sélectionnée
+v2_age;Float;;Age de la personne sélectionnée
+avecqui;Numérique;avecqui;En compagnie de qui a été pris le repas ?
+duree;Numérique;;Durée du repas (en min)
+lieu;Numérique;lieu;Lieu du repas
+nojour;Numérique;nojour;Numéro d'ordre du jour dans le carnet
+nomen;Numérique;;Numéro d'individu
+nomjour;Texte;;Nom du jour
+temrep;Numérique;priserep;Témoin de prise du repas (repas pris=0)
+tyrep;Numérique;norep;Type de repas
+codgr;Numérique;;Code GROUPE de la nomenclature
+libgr;Texte;;Libellé du groupe de la nomenclature INCA 2
+sougr;Numérique;;Code SOUS-GROUPE au sein du groupe d'aliment
+libsougr;Texte;;Libellé du sous-groupe au sein du groupe d'aliments
+codal;Numérique;;Code ALIMENT de la nomenclature INCA 2
+libal;Texte;;Libellé de l'aliment de la nomenclature INCA 2
+age_chefq;Numérique;;Age du chef de ménage
+agglo5;Numérique;a5gglo;Catégorie d'agglomération (5 modalités)
+agglo9;Numérique;a9gglo;Catégorie d'agglomération (9 modalités)
+alimcru;Numérique;alimcru;Dans réfrigérateur place les aliments crus ...
+autsyst;Texte;;Autre procédé de traitement eau
+chef_atrav;Numérique;onref;Chef de famille - A déjà travaillé si sans emploi
+chef_diplo;Numérique;diplomeb;Chef de famille - Diplôme le + élevé obtenu
+chef_nbsal;Numérique;;Chef de famille - Nb de salariés employés si chef d'entreprise
+chef_situprof;Numérique;situprof;Chef de famille - Situation professionnelle actuelle
+chef_statempl;Numérique;statemp;Chef de famille - statut d'emploi (salarié, pdg ...)
+chef_typempl;Numérique;typemplb;Chef de famille - type d'emploi (CDD, CDI ...)
+chetiq;Numérique;onsp;Choix pdts alim. en fct des infos marquées sur l'emballage-étiquette
+chfacil;Numérique;onsp;Choix pdts alim. en fct de la facilité de préparation
+chgout;Numérique;onsp;Choix pdts alim. en fct du goût
+chhabit;Numérique;onsp;Choix pdts alim. en fct d'une habitude
+chlabel;Numérique;onsp;Choix pdts alim. en fct des signes de qualité (labels, AOC, agri. bio)
+chmarq;Numérique;onsp;Choix pdts alim. en fct de la marque
+chnouv;Numérique;onsp;Choix pdts alim. en fct du fait que le produit soit nouveau
+chnut;Numérique;onsp;Choix pdts alim. en fct de la composition nutritionnelle
+chori;Numérique;onsp;Choix pdts alim. en fct de l'origine ou provenance
+chpres;Numérique;onsp;Choix pdts alim. en fct de l'apparence et la présentation
+chprix;Numérique;onsp;Choix pdts alim. en fct du prix
+chprod;Numérique;onsp;Choix pdts alim. en fct du mode de production
+chpub;Numérique;onsp;Choix pdts alim. en fct de la publicité
+chsani;Numérique;onsp;Choix pdts alim. en fct d'un marquage de contrôle sanitaire
+claim;Numérique;claim;Si 2 produits identiques, dont 1 revendique intérêt nutritionnel, quel choix
+congelo;Numérique;onref;Foyer équipé d un congélateur
+consopc;Numérique;platcuis;Finit de consommer un plat cuisiné sans le congeler ...
+cspc;Numérique;pcs;PCS CHEF FAMILLE
+csvcharc;Numérique;nonembal;Temps maxi de conservation après achat d'autres charcuteries à la coupe
+csventrf;Numérique;nonembal;Temps maxi de conservation après achat d'entrées froides-traiteur
+csvfromc;Numérique;nonembal;Temps maxi de conservation après achat de fromage à la coupe
+csvjamb;Numérique;nonembal;Temps maxi de conservation après achat de jambon à la coupe
+csvpc;Numérique;nonembal;Temps maxi de conservation après achat de plats cuisinés
+csvvian;Numérique;nonembal;Temps maxi de conservation après achat de viande
+dlccrem;Numérique;dlc;Généralement, consomme les crèmes dessert au plus tard...
+dlcfrom;Numérique;dlc;Généralement, consomme le fromage emballé au plus tard ...
+dlcjamb;Numérique;dlc;Généralement, consomme le jambon sous plastique au plus tard...
+dlclaif;Numérique;dlc;Généralement, consomme le lait frais au plus tard...
+dlcoeuf;Numérique;dlc;Généralement, consomme les oeufs au plus tard...
+dlcpcsv;Numérique;dlc;Généralement, consomme les plats cuisinés sous vide au plus tard...
+dlcpl;Numérique;dlc;Généralement, consomme les plats cuisinés au plus tard...
+dlcsaum;Numérique;dlc;Généralement, consomme le saumon fumé sous plastique au plus tard ...
+dlcvian;Numérique;dlc;Généralement, consomme la viande pré-emballée au plus tard...
+dlcyao;Numérique;dlc;Généralement, consomme les yaourts au plus tard ...
+ech;Numérique;echant;Echantillon (adultes/enfants)
+entrindi;Numérique;onsp;Entretien par vous-meme
+entrnsp;Numérique;onsp;NSP qui fait entretien
+entrprof;Numérique;onsp;Entretien par professionnel
+four;Numérique;onref;Foyer équipé d un four classique (dans une cuisinière ou séparé)
+fqtrait;Numérique;frqtrait;Fréquence des opérations d'entretien du système de traitement d'eau
+frigo;Numérique;onref;Foyer équipé d un réfrigérateur
+insconserv;Numérique;instruc;Suit les instructions de conservation figurant sur emballage ?
+inscuisson;Numérique;instruc;Suit les instructions de prépararation et cuisson figurant sur l'emballage ?
+jard_pelouse;Numérique;onsp;Fleurs/pelouse dans le jardin
+jard_potager;Numérique;onsp;Potager dans le jardin
+jard_poules;Numérique;onsp;Poulailler dans le jardin
+jard_rien;Numérique;onsp;Rien dans le jardin
+jard_verger;Numérique;onsp;Verger dans le jardin
+jardin;Numérique;onref;Possède un jardin
+loc_log;Numérique;habitat;Localisation du logement
+manq_alim;Numérique;inquiet;Inquiet à l'idée de manquer d'aliments
+micro_onde;Numérique;onref;Foyer équipé d un four à micro-ondes
+micronde;Numérique;micronde;Réchauffe aliments au micro-onde dans emballage d'origine ?
+nb_tv;Numérique;nbtele;Nombre de télévisions
+nb_voit;Numérique;nbvoit;Nombre de voitures
+nbadu;Numérique;;Nombre d'adultes dans le foyer
+nbenf;Numérique;;Nombre d'enfants dans le foyer
+nbpers;Numérique;;Nbr de personnes vivant dans le foyer (4 jours ou +/semaine)
+nomen;Texte;;Numéro d'individu
+nrchoix;Numérique;onsp;Pas de réponse - Choix des produits alimentaires
+nrepjamb;Numérique;nbrepas;Consomme généralement le jambon sous plastique
+nreppate;Numérique;nbrepas;Consomme généralement le pâté sous plastique
+nreprill;Numérique;nbrepas;Consomme généralement les pots de rillettes
+nrepsauc;Numérique;nbrepas;Consomme généralement les saucisses en sachet
+nrepsaum;Numérique;nbrepas;Consomme généralement le saumon fumé sous plastique
+nrsyst;Numérique;onsp;Pas de réponse sur type de traitement eau
+nrtrait;Numérique;;Pas de Réponse système trait eau
+pcschef;Numérique;pcschef;PCS chef de famille (8 modalités)
+pond_men;Numérique;;Pondération MENAGES finale
+puits;Numérique;eaupuits;Utilise une alimentation en eau par puits privé ?
+reg;Numérique;regf;Région INCA2 (8 modalités)
+reste;Numérique;tsrj;Dans réfrigérateur, protège les aliments entamés et les restes ?
+revenu;Numérique;revenu;Revenus du foyer
+saliere;Numérique;saliere;A la maison, la salière est-ellesur la table au cours des repas ?
+selcrud;Numérique;selcrud;Ajout de sel avant de servir les crudités
+selcuileg;Numérique;salage;Ajout de sel lors de la cuisson des légumes verts-PDT-légumes secs
+selcuioeuf;Numérique;salage;Ajout de sel lors de la cuisson des oeufs
+selcuivp;Numérique;salage;Ajout de sel lors de la cuisson des poissons-viandes
+selcuivps;Numérique;salage;Ajout de sel lors de la cuisson des poissons ou viandes en sauce
+sexe_chef;Numérique;sexe;Sexe du chef de ménage
+sitalim_argent;Numérique;onsp;Ne mange pas de tout pour question d'argent
+sitalim_autre;Numérique;onsp;Ne mange pas de tout pour d'autres raisons
+sitalim_depl;Numérique;onsp;Ne mange pas de tout pour question de déplacement
+sitalim_place;Numérique;onsp;Ne mange pas de tout pour question de place ou équipement
+sitalim_regime;Numérique;onsp;Ne mange pas de tout pour question de régime
+sitalim_rhf;Numérique;onsp;Ne mange pas de tout pour question de choix en RHF
+sitalim_temps;Numérique;onsp;Ne mange pas de tout pour question de temps
+situ_alim;Numérique;situali;Situation correspondant le mieux à la situation actuelle du foyer
+situ_fin;Numérique;situfin;Actuellement, dans votre foyer, diriez-vous plutôt que financièrement...
+soins;Numérique;onsp;Renonce à certains soins de santé pour des raisons financières
+stat_log;Numérique;logement;Statut d'occupation du logement
+stokcons;Numérique;stokcons;Lieu de stockage des produits longue conservation
+systaut;Numérique;onsp;Traitement eau : Autre procédé
+systcharb;Numérique;onsp;Traitement eau : Filtration sur charbon actif
+systion;Numérique;onsp;Traitement eau : résine échangeuse d'ions
+systmeca;Numérique;onsp;Traitement eau : Filtration mécanique
+systmemb;Numérique;onsp;Traitement eau : Procédés membranaires
+systnsp;Numérique;onsp;NSP quel type de traitement eau
+systuv;Numérique;onsp;Traitement eau : Traitement ultra-violet
+tage_chef;Numérique;;Age du chef de ménage (7 tranches)
+temp;Numérique;temp;Quelle température moyenne dans un réfrigérateur ?
+tempfrig;Numérique;;Précisez la température indiquée (en °C)
+thermo;Numérique;thermo;Quelle est, aujourd hui, la température de votre réfrigérateur ?
+traitcirc;Numérique;onsp;Système trait. eau sur tout le circuit d'eau
+traiteau;Numérique;traiteau;Dispose d'un ou plusieurs systèmes de traitements d'eau ?
+traiteauch;Numérique;onsp;Système trait. eau sur circuit d'eau chaude
+traitnsp;Numérique;onsp;NSP place système trait. eau
+traitusag;Numérique;onsp;Système trait. eau au point d usage
+typesel;Numérique;typesel;A la maison, utilise principalement du ...
+up;Numérique;;Numéro d'UP (unité primaire)
+viande;Numérique;prodanx;Peut manger viande, volaille ou poisson tous les 2 jours
+automnecompl;Numérique;saison de prédilection pour la la prise de compléments : automne;
+but1;Numérique;butadcanew;1er but d'achat de compléments
+but10;Numérique;butadcanew;10ème but d'achat de compléments
+but11;Numérique;butadcanew;11ème but d'achat de complément
+but2;Numérique;butadcanew;2ème but d'achat de compléments
+but3;Numérique;butadcanew;3ème but d'achat de compléments
+but4;Numérique;butadcanew;4ème but d'achat de compléments
+but5;Numérique;butadcanew;5ème but d'achat de compléments
+but6;Numérique;butadcanew;6ème but d'achat de compléments
+but7;Numérique;butadcanew;7ème but d'achat de compléments
+but8;Numérique;butadcanew;8ème but d'achat de compléments
+but9;Numérique;butadcanew;9ème but d'achat de compléments
+compl_12m_AET;Numérique;;Apport en Energie totale (en kcal/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut10;Numérique;;Apport en Acides gras saturés (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut11;Numérique;;Apport en Amidon (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut12;Numérique;;Apport en Glucides simples (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut13;Numérique;;Apport en Fibres (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut14;Numérique;;Apport en Cholestérol (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut15;Numérique;;Apport en Eau (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut16;Numérique;;Apport en Calcium (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut17;Numérique;;Apport en Fer (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut18;Numérique;;Apport en Sodium (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut19;Numérique;;Apport en Magnésium (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut20;Numérique;;Apport en Manganèse (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut21;Numérique;;Apport en Phosphore (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut22;Numérique;;Apport en Potassium (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut23;Numérique;;Apport en Cuivre (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut24;Numérique;;Apport en Zinc (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut25;Numérique;;Apport en Sélénium (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut26;Numérique;;Apport en Iode (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut27;Numérique;;Apport en Rétinol (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut28;Numérique;;Apport en Béta-carotène (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut30;Numérique;;Apport en Vitamine C (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut31;Numérique;;Apport en Vitamine D (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut32;Numérique;;Apport en Vitamine E (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut33;Numérique;;Apport en Vitamine B1 ou thiamine (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut34;Numérique;;Apport en Vitamine B2 ou riboflavine (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut35;Numérique;;Apport en Vitamine B3 ou niacine (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut36;Numérique;;Apport en Vitamine B5 ou acide pantothénique (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut37;Numérique;;Apport en Vitamine B6 (en mg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut38;Numérique;;Apport en Vitamine B9 ou folates (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut39;Numérique;;Apport en Vitamine B12 (en μg/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut4;Numérique;;Apport en Protéines (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut5;Numérique;;Apport en Glucides disponibles (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut6;Numérique;;Apport en Lipides (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut7;Numérique;;Apport en Alcool (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut8;Numérique;;Apport en Acides gras mono-insaturés (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_12m_nut9;Numérique;;Apport en Acides gras poly-insaturés (en g/j) liés aux compléments alimentaires sur les 12 derniers mois
+compl_7j_AET;Numérique;;Apport en Energie totale (en kcal/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut10;Numérique;;Apport en Acides gras saturés (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut11;Numérique;;Apport en Amidon (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut12;Numérique;;Apport en Glucides simples (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut13;Numérique;;Apport en Fibres (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut14;Numérique;;Apport en Cholestérol (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut15;Numérique;;Apport en Eau (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut16;Numérique;;Apport en Calcium (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut17;Numérique;;Apport en Fer (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut18;Numérique;;Apport en Sodium (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut19;Numérique;;Apport en Magnésium (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut20;Numérique;;Apport en Manganèse (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut21;Numérique;;Apport en Phosphore (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut22;Numérique;;Apport en Potassium (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut23;Numérique;;Apport en Cuivre (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut24;Numérique;;Apport en Zinc (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut25;Numérique;;Apport en Sélénium (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut26;Numérique;;Apport en Iode (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut27;Numérique;;Apport en Rétinol (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut28;Numérique;;Apport en Béta-carotène (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut30;Numérique;;Apport en Vitamine C (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut31;Numérique;;Apport en Vitamine D (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut32;Numérique;;Apport en Vitamine E (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut33;Numérique;;Apport en Vitamine B1 ou thiamine (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut34;Numérique;;Apport en Vitamine B2 ou riboflavine (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut35;Numérique;;Apport en Vitamine B3 ou niacine (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut36;Numérique;;Apport en Vitamine B5 ou acide pantothénique (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut37;Numérique;;Apport en Vitamine B6 (en mg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut38;Numérique;;Apport en Vitamine B9 ou folates (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut39;Numérique;;Apport en Vitamine B12 (en μg/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut4;Numérique;;Apport en Protéines (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut5;Numérique;;Apport en Glucides disponibles (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut6;Numérique;;Apport en Lipides (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut7;Numérique;;Apport en Alcool (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut8;Numérique;;Apport en Acides gras mono-insaturés (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl_7j_nut9;Numérique;;Apport en Acides gras poly-insaturés (en g/j) liés aux compléments alimentaires sur les 7 jours du carnet
+compl12m;Numérique;onsp;Au cours des 12 der. mois, a consommé des CA
+ech;Numérique;echant;Echantillon (adultes/enfants)
+etecompl;Numérique;;saison de prédilection pour la prise de compléments : été
+hivercompl;Numérique;;saison de prédilection pour la la prise de compléments : hiver
+motiv1;Numérique;motivcanew;1ère motivation d'achat de comp
+motiv10;Numérique;motivcanew;10ème motivation d'achat de compléments
+motiv2;Numérique;motivcanew;2ème motivation d'achat de compléments
+motiv3;Numérique;motivcanew;3ème motivation d'achat de compléments
+motiv4;Numérique;motivcanew;4ème motivation d'achat de compléments
+motiv5;Numérique;motivcanew;5ème motivation d'achat de compléments
+motiv6;Numérique;motivcanew;6ème motivation d'achat de compléments
+motiv7;Numérique;motivcanew;7ème motivation d'achat de compléments
+motiv8;Numérique;motivcanew;8ème motivation d'achat de compléments
+motiv9;Numérique;motivcanew;9ème motivation d'achat de compléments
+nbancompl;Numérique;;Depuis combien d ANNEES consomme des cplts alim.
+nbcompl12m;Numérique;;Au cours des 12 derniers mois, nb de CA différents consommés
+nomen;Numérique;;Numéro d'individu
+pond_adu_ech;Numérique;;POND finale Adulte ramenée à l'échantillon
+pond_enf_ech;Numérique;;POND finale Enfant ramenée à l'échantillon
+printempscompl;Numérique;;saison de prédilection pour la prise de compléments : printemps
+saisonparticuliere;Numérique;;saisonparticuliere
+sexe_ps;Numérique;sexe;Sexe de la personne sélectionnée
+siautrbut1;Texte;;si autre but d'achat de compléments en 1er
+siautrbut10;Texte;;si autre but d'achat de compléments en 10ème
+siautrbut11;Texte;;si autre but d'achat de compléments en 11ème
+siautrbut2;Texte;;si autre but d'achat de compléments en 2ème
+siautrbut3;Texte;;si autre but d'achat de compléments en 3ème
+siautrbut4;Texte;;si autre but d'achat de compléments en 4ème
+siautrbut5;Texte;;si autre but d'achat de compléments en 5ème
+siautrbut6;Texte;;si autre but d'achat de compléments en 6ème
+siautrbut7;Texte;;si autre but d'achat de compléments en 7ème
+siautrbut8;Texte;;si autre but d'achat de compléments en 8ème
+siautrbut9;Texte;;si autre but d'achat de compléments en 9ème
+siautrmotiv1;Texte;;si autre motivation d'achat de compléments en 1er
+siautrmotiv10;Texte;;si autre motivation d'achat de compléments en 10ème
+siautrmotiv2;Texte;;si autre motivation d'achat de compléments en 2ème
+siautrmotiv3;Texte;;si autre motivation d'achat de compléments en 3ème
+siautrmotiv4;Texte;;si autre motivation d'achat de compléments en 4ème
+siautrmotiv5;Texte;;si autre motivation d'achat de compléments en 5ème
+siautrmotiv6;Texte;;si autre motivation d'achat de compléments en 6ème
+siautrmotiv7;Texte;;si autre motivation d'achat de compléments en 7ème
+siautrmotiv8;Texte;;si autre motivation d'achat de compléments en 8ème
+siautrmotiv9;Texte;;si autre motivation d'achat de compléments en 9ème
+sicaract1;Texte;;si caractéristique du produit en 1er
+sicaract10;Texte;;si caractéristique du produit en 10ème
+sicaract2;Texte;;si caractéristique du produit en 2ème
+sicaract3;Texte;;si caractéristique du produit en 3ème
+sicaract4;Texte;;si caractéristique du produit en 4ème
+sicaract5;Texte;;si caractéristique du produit en 5ème
+sicaract6;Texte;;si caractéristique du produit en 6ème
+sicaract7;Texte;;si caractéristique du produit en 7ème
+sicaract8;Texte;;si caractéristique du produit en 8ème
+sicaract9;Texte;;si caractéristique du produit en 9ème
+sipbsante1;Texte;;si problème de santé en 1er
+sipbsante10;Texte;;si problème de santé en 10ème
+sipbsante11;Texte;;si problème de santé en 11ème
+sipbsante2;Texte;;si problème de santé en 2ème
+sipbsante3;Texte;;si problème de santé en 3ème
+sipbsante4;Texte;;si problème de santé en 4ème
+sipbsante5;Texte;;si problème de santé en 5ème
+sipbsante6;Texte;;si problème de santé en 6ème
+sipbsante7;Texte;;si problème de santé en 7ème
+sipbsante8;Texte;;si problème de santé en 8ème
+sipbsante9;Texte;;si problème de santé en 9ème
+tage;Numérique;age;Classe d'âge de la personne sélectionnée
+v2_age;Numérique;;Age de la personne sélectionnée

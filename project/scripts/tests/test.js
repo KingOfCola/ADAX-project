@@ -7,10 +7,71 @@
 var DataFrame = dfjs.DataFrame;
 var Row = dfjs.Row;
 
-function showCols(df, dfCols, name, callBack = null) {
+function showCols(df, dfCols, name=null, callBack = null) {
+    /**
+     * create a dropDown enabling the selection of a column from df
+     * df: DataFrame object where the columns are to be selected
+     * dfCols: DataFrame object where the correspondances column name - meaning are stored
+     * name: String containg the name of the dataFrame to show
+     * callback: Function callback to call on change of the dropDown.
+     *  
+     * @type dropDown
+     */
     var div = $("#mainBox");
     if (name !== null) {div.append($("<div></div>").append($("<p></p>")).text(name));}
-    var select = dropDown(df, dfCols);
+    var columnNames = df.listColumns();
+    var select = dropDown(columnNames, dfCols);
+    var container = $("<div></div>").addClass("w3-row");
+    container.append($("<div></div>").append(select).addClass("w3-cell"));
+    var displayDiv = $("<div></div>").text(select.val()).addClass("w3-cell");
+    if (callBack === null) {
+        callBack = function (e) {displayDiv.text($(this).val());};
+    }
+    select.on({change: callBack});
+    container.append(displayDiv);
+    div.append(container);
+    return select;
+}
+
+
+function createDropDownCategories(df, dfCols, callBack = null) {
+    /**
+     * create a dropDown enabling the selection of a column from df
+     * df: DataFrame object where the Categories columns are to be selected
+     * dfCols: DataFrame object where the correspondances column name - meaning are stored
+     * callback: Function callback to call on change of the dropDown.
+     *  
+     * @type dropDown
+     */
+    return createDropDownGeneric(df, dfCols, callBack, dropDownCategories);
+}
+
+
+function createDropDownValues(df, dfCols, callBack = null) {
+    /**
+     * create a dropDown enabling the selection of a column from df
+     * df: DataFrame object where the Values columns are to be selected
+     * dfCols: DataFrame object where the correspondances column name - meaning are stored
+     * callback: Function callback to call on change of the dropDown.
+     *  
+     * @type dropDown
+     */
+    return createDropDownGeneric(df, dfCols, callBack, dropDownValues);
+}
+
+function createDropDownGeneric(df, dfCols, callBack, dropDownCreator) {
+    /**
+     * create a dropDown enabling the selection of a column from df
+     * df: DataFrame object where the columns are to be selected
+     * dfCols: DataFrame object where the correspondances column name - meaning are stored
+     * callback: Function callback to call on change of the dropDown.
+     * dropdownCreator: Function the generator of dropdown to call on the columns.
+     *  
+     * @type dropDown
+     */
+    var div = $("#mainBox");
+    var columnNames = df.listColumns();
+    var select = dropDownCreator(columnNames, dfCols);
     var container = $("<div></div>").addClass("w3-row");
     container.append($("<div></div>").append(select).addClass("w3-cell"));
     var displayDiv = $("<div></div>").text(select.val()).addClass("w3-cell");
@@ -57,24 +118,50 @@ function rowToTableRow(arr, i, nCols) {
     return tr;
 }
 
-function dropDown(dfTar, dfColNames) {
-    var select = $("<select></select>");
-    var columnNames = dfTar.listColumns();
+function dropDown(columnNames, dfColNames) {
     var dfCols = new DataFrame({column: columnNames});
     dfCols = dfCols
         .join(dfColNames.rename("Nom de la variable", "column"), "column", "left")
-        .groupBy("column")
+        .dropDuplicates("column")
         .map(function (row, i) {
             return new Row({column: row.get("column"), description: row.get("Libellé de la variable")});
-        })
-        .map(function (row, i) {
-            select.append(
-                $("<option></option>")
-                    .attr("value", row.get("column"))
-                    .text(row.get("description"))
-                
-            );
         });
+    return createDropDown(dfCols);
+}
+
+function dropDownCategories(columnNames, dfColNames) {
+    var dfCols = new DataFrame({column: columnNames});
+    dfCols = dfCols
+        .join(dfColNames.rename("Nom de la variable", "column"), "column", "left")
+        .dropDuplicates("column")
+        .where(row => row.get("Libellé du codage") !== "")
+        .map(function (row, i) {
+            return new Row({column: row.get("column"), description: row.get("Libellé de la variable")});
+        });
+    return createDropDown(dfCols);
+}
+
+function dropDownValues(columnNames, dfColNames) {
+    var dfCols = new DataFrame({column: columnNames});
+    dfCols = dfCols
+        .join(dfColNames.rename("Nom de la variable", "column"), "column", "left")
+        .dropDuplicates("column")
+        .where(row => (row.get("Libellé du codage") === "") && (row.get("Type") === "Numérique"  || row.get("Type") === "Float")).groupBy("column")
+        .map(function (row, i) {
+            return new Row({column: row.get("column"), description: row.get("Libellé de la variable")});
+        });
+    return createDropDown(dfCols);
+}
+
+function createDropDown(dfCols) {
+    var select = $("<select></select>");
+    dfCols.map(function (row, i) {
+        select.append(
+            $("<option></option>")
+                .attr("value", row.get("column"))
+                .text(row.get("description"))
+        );
+    });
     return select;
 }
 
@@ -85,7 +172,7 @@ function addChart(df, col, colClasses=null) {
     return div;
 }
 
-function createChart(div, df, col, colClasses=null) {
+function createChart(div, df, col, colClasses=null, dfColsClasses=null) {
     var options = {
         axisX: {
             title: col
@@ -93,12 +180,12 @@ function createChart(div, df, col, colClasses=null) {
         axisY: {
             title: "Number of entries"
         },
-        data: getBinsFromClasses(df, 50, col, colClasses)
+        data: getBinsFromClasses(df, 50, col, colClasses, dfColsClasses)
     };
     div.CanvasJSChart(options);
 }
 
-function getBinsFromClasses(df, nBins, colData, colClass = null) {
+function getBinsFromClasses(df, nBins, colData, colClass = null, dfColsClasses=null) {
     if (colClass === null) {return [{type: "line", dataPoints: getBins(df.toArray(colData), nBins)}];}
     if (!(df.listColumns().find(function (e) {return e === colClass;}))) {
         console.log(colClass + " not in df columns... " + JSON.stringify(df.listColumns()));
@@ -106,12 +193,22 @@ function getBinsFromClasses(df, nBins, colData, colClass = null) {
     }
     var classes = df.select(colClass).dropDuplicates().toArray(colClass);
     var values = df.toArray(colData);
-    console.log(6);
     var data = [];
     var vmin = Math.min(...values), vmax = Math.max(...values);
     classes.map(function (c) {
+        var classLabel = c;
+        if (dfColsClasses !== null) {
+            try {
+                classLabel = dfColsClasses.where({"Libellé de codage": colClass, "code": c}).toArray()[0].Signification;
+                console.log(JSON.stringify(dfColsClasses.where({"Libellé de codage": colClass, "code": c}).toArray()));
+            } catch (e) {
+                console.log(e);
+            }
+        } 
         data.push({
-            type: "line", 
+            type: "line",
+            showInLegend: true, 
+            name: classLabel,
             dataPoints: getBinsFromBounds(
                 df.where(row => row.get(colClass) === c).toArray(colData), 
                 vmin,

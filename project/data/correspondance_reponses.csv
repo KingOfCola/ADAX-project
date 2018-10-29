@@ -1,0 +1,1106 @@
+Libell� de codage;code;Signification
+a5gglo;1;rural
+a5gglo;2;2 000 à 20 000 hab.
+a5gglo;3;20 000 à 100 000 hab.
+a5gglo;4;> 100 000 hab
+a5gglo;5;agglo paris
+a9gglo;1;rural
+a9gglo;2;2 000 à 5 000 hab.
+a9gglo;3;5 000 à 10 000 hab.
+a9gglo;4;10 000 à 20 000 hab.
+a9gglo;5;20 000 à 50 000 hab.
+a9gglo;6;50 000 à 100 000 hab.
+a9gglo;7;100 000 à 200 000 hab.
+a9gglo;8;> 200 000 hab.
+a9gglo;9;agglo paris
+achpub;0;[plusieurs réponses]
+achpub;1;a acheté
+achpub;2;n'a pas acheté
+achpub;3;ne se souvient pas
+achpub;9;[pas de réponse]
+actifeps;1;pas eu cours d'EPS
+actifeps;2;15 minutes ou moins
+actifeps;3;16 à 30 minutes
+actifeps;4;31 à 45 minutes
+actifeps;5;46 à 60 minutes
+actifeps;6;1h01 à 1h15
+actifeps;7;1h15 à 1h30
+actifeps;8;plus de 1h30
+actifeps;9;ne sait pas
+actifeps;10;[refus]
+age;1;3-10 ans
+age;2;11-14 ans
+age;3;15-17 ans
+age;4;18-24 ans
+age;5;25-34 ans
+age;6;35-49 ans
+age;7;50-64 ans
+age;8;65 ans et +
+agechef;1;18-24 ans
+agechef;2;25-34 ans
+agechef;3;35-49 ans
+agechef;4;50-64 ans
+agechef;5;65 ans et +
+aime;0;[plusieurs réponses]
+aime;1;beaucoup
+aime;2;assez
+aime;3;un peu
+aime;4;pas du tout
+aime;5;ne sait pas
+aime;9;[pas de réponse]
+autcant;0;pas de réponse
+autcant;1;déjeune chez la nourrice ou les grands-parents
+autcant;2;pas de cantine dans l'établissement
+autcant;3;autres
+autcant;4;enfant difficile
+autcant;5;apprentissage
+autcant;6;manque de place à la cantine
+autdist;0;pas de réponse
+autdist;1;boissons chaudes (thé, tisane, café, cappuccino)
+autdist;2;boisson chocolatée
+autdist;3;viennoiserie
+autdist;4;sandwichs
+autdist;5;potage
+autdist;6;glace
+autdist;7;laitage (lait, yaourt)
+autdist;8;autres
+autinfo;0;pas de réponse
+autinfo;1;profession
+autinfo;2;professionnels de l'alimentaire (artisan)
+autinfo;3;divers
+autinfo;4;par la cuisine / école de cuisine
+autinfo;5;environnement professionnel
+autinfo;6;organismes officiels
+autinfo;7;entraîneur sportif
+autinfo;8;conférences, salons
+autintal;0;pas de réponse
+autintal;1;nécessité biologique
+autintal;2;convivialité
+autintal;3;connaître l'origine des aliments
+autintal;4;rapport qualité prix
+autintal;5;lien alimentation santé
+autintal;6;composition nutritionnelle des aliments
+autintal;7;thématique en lien avec la profession
+autintal;8;mode de production agricole
+autintal;9;aspect culturel
+autintal;10;connaître les régimes pour grossir
+autintal;11;autres
+autintal;12;alimentation du sportif
+autintal;13;auto-production
+autintal;14;éducation alimentaire des enfants
+autintal;15;alimentation des enfants
+autintal;16;hygiène alimentaire
+autreg;0;pas de réponse
+autreg;1;divers
+autreg;2;alimentation particulière
+autreg;3;enceinte
+autreg;4;pratique sportive
+autreg;5;allergie ou intolérance alimentaire
+autreg;6;pour prendre du poids
+autreg;7;allaitement
+autreg;8;difficultés financières
+autreg;9;régime peu salé
+autreg;10;baisse activité physique
+autreg;11;anorexie
+autregme;0;pas de réponse
+autregme;1;cholestérolémie
+autregme;2;diabète
+autregme;3;problèmes cardiovasculaires
+autregme;4;allergie ou intolérance alimentaire
+autregme;5;problèmes intestinaux/digestifs
+autregme;6;multipathologie
+autregme;7;hypertension
+autregme;8;divers
+autregme;9;régime sans sel
+autregme;10;problèmes de dos
+autregme;11;colopathie
+autregme;12;problèmes rénaux
+autregme;13;chirurgie intestinale
+autregme;14;régime sans sel, sans gras, sans sucre
+autregme;15;régime sans sucre
+autregme;16;traitement corticoïde
+autregme;17;triglycéridémie
+autregme;18;hernie hiatale
+autregme;19;opérations
+b11f;1;jamais
+b11f;2;1-2 fois/sem
+b11f;3;3-4 fois/sem
+b11f;4;5-6 fois/sem
+b11f;5;1 fois/jour
+b11f;6;2 fois/jour
+b11f;7;3 fois/jour
+b11f;8;4 fois/jour ou +
+b11f;9;ne sait pas
+b11f;99;[pas de réponse]
+b12f;1;jamais
+b12f;2;1-2 fois/sem
+b12f;3;3-4 fois/sem
+b12f;4;5-6 fois/sem
+b12f;5;1 fois/jour
+b12f;6;2 fois/jour
+b12f;7;3 fois/jour
+b12f;8;4 fois/jour
+b12f;9;5 fois/jour
+b12f;10;6 fois/jour ou +
+b12f;11;ne sait pas
+b12f;99;[pas de réponse]
+b22f;1;suit un régime
+b22f;2;ne suit pas de régime
+b39cig1f;1;moins d'une cigarette/jour
+b39cig1f;98;ne sait pas
+b39cig1f;99;fumeur de cigares ou pipes
+b39cig2f;1;moins d'une cigarette/jour
+b39cig2f;2;1 à 5 cigarettes/jour
+b39cig2f;3;6 à 10 cigarettes/jour
+b39cig2f;4;11 à 15 cigarettes/jour
+b39cig2f;5;16 à 20 cigarettes/jour
+b39cig2f;6;plus de 20 cigarettes/jour
+b39cig2f;7;ne sait pas
+c11lassb;1;primaire autre
+c11lassb;2;ce1
+c11lassb;3;ce2
+c11lassb;4;cm1
+c11lassb;5;cm2
+c11lassb;6;6ème
+c11lassb;7;5ème
+c11lassb;8;4ème
+c11lassb;9;3ème
+c11lassb;10;2nde
+c11lassb;11;1ère
+c11lassb;12;terminale
+c11lassb;13;bep
+c11lassb;14;cap
+c11lassb;15;clis (classe intégration scolaire)
+c15lassb;1;6ème
+c15lassb;2;5ème
+c15lassb;3;4ème
+c15lassb;4;3ème
+c15lassb;5;2nde
+c15lassb;6;1ère
+c15lassb;7;terminale
+c15lassb;8;bep
+c15lassb;9;cap
+c15lassb;10;bac pro
+c15lassb;11;école spécialisée
+c15lassb;12;activité professionnelle
+c15lassb;13;pas scolarisé ni en activité prof.
+c15lassb;14;autre
+c3lassb;1;pas scolarisé
+c3lassb;2;maternelle petite section
+c3lassb;3;maternelle moyenne section
+c3lassb;4;maternelle grande section
+c3lassb;5;CP
+c3lassb;6;CE1
+c3lassb;7;CE2
+c3lassb;8;CM1
+c3lassb;9;CM2
+c3lassb;10;6ème
+c3lassb;11;5ème
+c3lassb;12;4ème
+c3lassb;13;clis (classe intégration scolaire)
+c3lassb;14;autre
+cantine;0;[plusieurs réponses saisies]
+cantine;1;5 jours ou +/semaine
+cantine;2;3 ou 4 jours/semaine
+cantine;3;1 ou 2 jours/semaine
+cantine;4;<1 jour/semaine
+cantine;5;jamais
+cantine;6;ne sait pas
+cantine;7;vous n'êtes plus scolarisé
+cantine;9;[pas de réponse]
+cible;1;adultes 18 ans et +
+cible;2;enfants 3 à 10 ans
+cible;3;enfants 11 à 14 ans
+cible;4;enfants 15 à 17 ans
+colmata;0;[plusieurs réponses]
+colmata;1;6 à 7 jours/semaine
+colmata;2;4 à 5 jours/semaine
+colmata;3;1 à 3 jours/semaine
+colmata;4;<1 jour/semaine
+colmata;5;jamais
+colmata;6;ne sait pas
+colmata;9;[pas de réponse]
+colmatb;0;[plusieurs réponses]
+colmatb;1;tous les jours
+colmatb;2;souvent mais pas ts les jours
+colmatb;3;de temps en temps
+colmatb;4;jamais
+colmatb;5;ne sait pas
+colmatb;9;[pas de réponse]
+consocru;0;[plusieurs réponses]
+consocru;1;plusieurs fois/semaine
+consocru;2;1 à 3 fois/mois
+consocru;3;<1 fois/mois
+consocru;4;jamais consommé cru
+consocru;5;jamais consommé cru ou cuit
+consocru;6;ne sait pas
+consocru;9;[pas de réponse]
+consult;1;pas consulté
+consult;2;1 à 2 fois
+consult;3;3 à 4 fois
+consult;4;5 fois ou +
+consult;5;ne sait pas
+consult;9;[pas de réponse]
+cuiviand;0;[plusieurs réponses]
+cuiviand;1;jamais
+cuiviand;2;bleu
+cuiviand;3;saignant
+cuiviand;4;a point
+cuiviand;5;bien cuit
+cuiviand;6;très cuit
+cuiviand;9;[pas de réponse]
+cycle;0;[plusieurs réponses]
+cycle;1;oui, + de 3 fois
+cycle;2;oui, 2 à 3 fois
+cycle;3;oui, 1 seule fois
+cycle;4;non, jamais
+cycle;5;ne sait pas
+cycle;9;[pas de réponse]
+diplome;1;aucun, mais lit-écrit
+diplome;2;aucun, stop école primaire
+diplome;3;aucun, stop collège
+diplome;4;aucun, stop après collège
+diplome;5;aucun, sans précision
+diplome;6;cep, diplôme fin études obligatoires
+diplome;7;cap, bep, bepc, brevet élém., beps
+diplome;8;brevet de techn., bp, bei, bec, bea
+diplome;9;bac techno. ou bac pro.
+diplome;10;bac général
+diplome;11;bts, dut, dest, deug, paramédical
+diplome;12;2ème,3ème cycle univ., grande école
+diplome;13;autre
+diplome;14;[refus]
+distrib;0;[plusieurs réponses]
+distrib;1;tous les jours ou presque
+distrib;2;3 à 4 jours/semaine
+distrib;3;1 à 2 jours/semaine
+distrib;4;<1 jour/semaine
+distrib;5;jamais
+distrib;6;ne sait pas
+distrib;9;[pas de réponse]
+dlc;0;[plusieurs réponses]
+dlc;1;avant date limite
+dlc;2;le jour de la date limite
+dlc;3;1 à 3 jours après date limite
+dlc;4;4 à 6 jours après date limite
+dlc;5;1 semaine ou + après date limite
+dlc;6;ne regarde pas la date limite
+dlc;7;n'en achète jamais
+dlc;9;[pas de réponse]
+echant;1;adultes
+echant;2;enfants
+ecolea;1;est allé à l'école
+ecolea;2;pas allé à l'école car malade
+ecolea;3;pas allé à l'école car en vacances
+ecolea;4;ne sait pas
+ecolea;5;[refus]
+enrichis;0;[plusieurs réponses]
+enrichis;1;oui, dès que possible
+enrichis;2;oui, selon aliments ou nutriments ajouté
+enrichis;3;non, pas préférentiellement
+enrichis;4;non, au contraire les évite
+enrichis;5;ne sait pas
+enrichis;9;[pas de réponse]
+entrerep;0;[plusieurs réponses]
+entrerep;1;4 fois/jour ou +
+entrerep;2;2 à 3 fois/jour
+entrerep;3;1 fois/jour
+entrerep;4;<1 fois/jour, ms au moins 1 fois/semaine
+entrerep;5;<1 fois/semaine
+entrerep;6;jamais
+entrerep;7;ne sait pas
+entrerep;9;[pas de réponse]
+eps;1;oui
+eps;2;non, est dispensé
+eps;3;non, n'avait pas de cours prévu
+eps;4;ne sait pas
+eps;5;[refus]
+essai;1;perdre du poids
+essai;2;ne pas prendre de poids
+essai;3;gagner du poids
+essai;4;n'est pas préoccupé par son poids
+essai;5;ne sait pas
+essai;9;[pas de réponse]
+etiquet;0;[plusieurs réponses]
+etiquet;1;lit et influence tjrs achat
+etiquet;2;lit et influence parfois achat
+etiquet;3;lit et n'influence jamais achat
+etiquet;4;ne lit jamais cette partie
+etiquet;9;[pas de réponse]
+fastfood;0;[plusieurs réponses]
+fastfood;1;tous les jours ou presque
+fastfood;2;4 à 5 jours/semaine
+fastfood;3;2 à 3 jours/semaine
+fastfood;4;1 jour/semaine
+fastfood;5;1 à 3 jours/mois
+fastfood;6;<1 jour/mois
+fastfood;7;jamais
+fastfood;8;ne sait pas
+fastfood;9;[pas de réponse]
+groupe;1;Pain et biscottes
+groupe;2;Céréales pour petit déjeuner
+groupe;3;Pâtes
+groupe;4;Riz et semoule
+groupe;5;Autres céréales
+groupe;6;Viennoiseries
+groupe;7;Biscuits
+groupe;8;Pâtisseries
+groupe;9;Lait
+groupe;10;Ultra-frais laitier
+groupe;11;Fromages
+groupe;12;Oeufs et dérivés
+groupe;13;Beurre
+groupe;14;Huiles
+groupe;15;Margarine
+groupe;16;Autres graisses
+groupe;17;Viandes
+groupe;18;Volailles et gibiers
+groupe;19;Abats
+groupe;20;Charcuterie
+groupe;21;Poissons
+groupe;22;Crustacés et mollusques
+groupe;23;Légumes
+groupe;24;Pommes de terre
+groupe;25;Légumes secs
+groupe;26;Fruits
+groupe;27;Fruits secs et oléagineux
+groupe;28;Glaces
+groupe;29;Chocolat
+groupe;30;Sucres et dérivés
+groupe;31;Eaux
+groupe;32;BRSA
+groupe;33;Boissons alcoolisées
+groupe;34;Café
+groupe;35;Boissons chaudes
+groupe;36;Pizzas, quiches...
+groupe;37;Sandwiches, casse-croûtes
+groupe;38;Soupes
+groupe;39;Plats composés
+groupe;40;Entrées
+groupe;41;Entremets
+groupe;42;Compotes et fruits cuits
+groupe;43;Condiments et sauces
+groupe;44;Boissons de l'effort et substitut de repas
+habitat;1;centre ville
+habitat;2;quartier périphérique
+habitat;3;bourg ou village
+habitat;4;habitat dispersé
+habitude;1;comme d'habitude
+habitude;2;moins que d'habitude
+habitude;3;plus que d'habitude
+habitude;4;ne sait pas
+ipaqf;1;bas
+ipaqf;2;modéré
+ipaqf;3;élevé
+intalim;0;[plusieurs réponses]
+intalim;1;beaucoup
+intalim;2;un peu
+intalim;3;pas vraiment
+intalim;4;pas du tout
+intalim;5;ne sait pas
+intalim;9;[pas de réponse]
+lienchef;1;lui-même
+lienchef;2;conjoint, concubin
+lienchef;3;enfant
+lienchef;4;père, mère
+lienchef;5;frère, soeur
+lienchef;6;autre
+lienchfb;1;lui-même
+lienchfb;2;conjoint, concubin
+lienchfb;3;enfant
+lienchfb;4;père, mère
+lienchfb;5;frère, soeur
+lienchfb;6;belle fille, beau fils
+lienchfb;7;belle soeur, beau frère
+lienchfb;8;colocataire
+lienchfb;9;autre (ami, gendre ...)
+lienenfb;1;père
+lienenfb;2;mère
+lienenfb;3;beau père, belle mère
+lienenfb;4;frère, soeur
+lienenfb;5;grand parent
+lienenfb;6;autre
+lieudej;0;[plusieurs réponses]
+lieudej;1;chez soi
+lieudej;2;à la cantine (entreprise, école, restau U)
+lieudej;3;sur lieu de travail (mais pas cantine)
+lieudej;4;chez des amis
+lieudej;5;au fast food
+lieudej;6;au restaurant, pizzeria, cafétéria
+lieudej;7;au café, bistrot
+lieudej;8;dans la rue, ou dans un parc
+lieudej;9;chez famille (parents, enfants ...)
+lieudej;10;dans sa voiture
+lieudej;11;ne déjeune pas le midi
+lieudej;12;autre
+lieudej;99;[pas de réponse]
+matrim;1;célibataire
+matrim;2;marié(e)
+matrim;3;en couple non marié (pacs, concubinage)
+matrim;4;veuf(ve)
+matrim;5;divorcé(e), séparé(e)
+matrim;6;[refus]
+onref;1;oui
+onref;2;non
+onref;3;[refus]
+onsp;0;[plusieurs réponses]
+onsp;1;oui
+onsp;2;non
+onsp;3;ne sait pas
+onsp;4;[refus]
+onsp;9;[pas de réponse]
+opipoids;1;d'un poids normal
+opipoids;2;trop gros
+opipoids;3;trop maigre
+opipoids;4;ne sait pas
+opipoids;9;[pas de réponse]
+pasecole;1;crèche
+pasecole;2;chez nourrice ou grands-parents
+pasecole;3;reste à la maison
+pasecole;4;[refus]
+paysb;1;France
+paysb;2;Afghanistan
+paysb;3;Afrique Du Sud
+paysb;4;Albanie
+paysb;5;Algérie
+paysb;6;Allemagne
+paysb;7;Andorre
+paysb;8;Angola
+paysb;9;Antigua Et Barbuda
+paysb;10;Arabie Saoudite
+paysb;11;Argentine
+paysb;12;Australie
+paysb;13;Autriche
+paysb;14;Bahamas
+paysb;15;Bahreïn
+paysb;16;Bangladesh
+paysb;17;Barbade
+paysb;18;Belau (Palau)
+paysb;19;Belgique
+paysb;20;Belize
+paysb;21;Bénin
+paysb;22;Bhoutan
+paysb;23;Birmanie
+paysb;24;Bolivie
+paysb;25;Botswana
+paysb;26;Brésil
+paysb;27;Brunei
+paysb;28;Bulgarie
+paysb;29;Burkina-Faso
+paysb;30;Burundi
+paysb;31;Cambodge
+paysb;32;Cameroun
+paysb;33;Canada
+paysb;34;Cap Vert
+paysb;35;République Centre Africaine
+paysb;36;Chili
+paysb;37;Chine
+paysb;38;Chypre
+paysb;39;Colombie
+paysb;40;Comores
+paysb;41;Congo
+paysb;42;Corée
+paysb;43;Costa Rica
+paysb;44;Côte d'ivoire
+paysb;45;Cuba
+paysb;46;Danemark
+paysb;47;Djibouti
+paysb;48;République Dominicaine
+paysb;49;Dominique
+paysb;50;Egypte
+paysb;51;Emirats Arabes Unis
+paysb;52;Equateur
+paysb;53;Erythrée
+paysb;54;Espagne
+paysb;55;Etats Unis
+paysb;56;Ethiopie
+paysb;57;Fidji
+paysb;58;Finlande
+paysb;59;Gabon
+paysb;60;Gambie
+paysb;61;Ghana
+paysb;62;Grèce
+paysb;63;Grenade
+paysb;64;Guatemala
+paysb;65;Guinée
+paysb;66;Guyana
+paysb;67;Haïti
+paysb;68;Honduras
+paysb;69;Hongrie
+paysb;70;Inde
+paysb;71;Indonésie
+paysb;72;Iran
+paysb;73;Irak
+paysb;74;Irlande
+paysb;75;Islande
+paysb;76;Israël
+paysb;77;Italie
+paysb;78;Jamaïque
+paysb;79;Japon
+paysb;80;Jordanie
+paysb;81;Kenya
+paysb;82;Kiribati
+paysb;83;Koweït
+paysb;84;Laos
+paysb;85;Lesotho
+paysb;86;Liban
+paysb;87;Libéria
+paysb;88;Libye
+paysb;89;Liechtenstein
+paysb;90;Luxembourg
+paysb;91;Madagascar
+paysb;92;Malaisie
+paysb;93;Malawi
+paysb;94;Maldives (Iles)
+paysb;95;Mali
+paysb;96;Malte
+paysb;97;Maroc
+paysb;98;Marshall (Iles)
+paysb;99;Maurice (Ile)
+paysb;100;Mauritanie
+paysb;101;Mexique
+paysb;102;Micronésie
+paysb;103;Monaco
+paysb;104;Mongolie
+paysb;105;Mozambique
+paysb;106;Namibie
+paysb;107;Nauru
+paysb;108;Népal
+paysb;109;Nicaragua
+paysb;110;Niger
+paysb;111;Nigeria
+paysb;112;Norvège
+paysb;113;Nouvelle Zélande
+paysb;114;Oman
+paysb;115;Ouganda
+paysb;116;Pakistan
+paysb;117;Panama
+paysb;118;Papouasie-Nouvelle Guinée
+paysb;119;Paraguay
+paysb;120;Pays-Bas
+paysb;121;Pérou
+paysb;122;Philippines
+paysb;123;Pologne
+paysb;124;Portugal
+paysb;125;Qatar
+paysb;126;Roumanie
+paysb;127;Royaume-Uni
+paysb;128;Rwanda
+paysb;129;Saint-Christophe-Et-Niévès
+paysb;130;Sainte-Lucie
+paysb;131;Saint-Marin
+paysb;132;Saint-Vincent-Et-Les Grenadines
+paysb;133;Salomon (Iles)
+paysb;134;Salvador
+paysb;135;Samoa Occidentales
+paysb;136;Sao Tomé-Et-Principe
+paysb;137;Sénégal
+paysb;138;Seychelles
+paysb;139;Sierra-Leone
+paysb;140;Singapour
+paysb;141;Somalie
+paysb;142;Soudan
+paysb;143;Sri Lanka
+paysb;144;Suède
+paysb;145;Suisse
+paysb;146;Surinam
+paysb;147;Swaziland
+paysb;148;Syrie
+paysb;149;Tanzanie
+paysb;150;Tchad
+paysb;151;Tchécoslovaquie
+paysb;152;Thaïlande
+paysb;153;Togo
+paysb;154;Tonga (Iles)
+paysb;155;Trinité Et Tobago
+paysb;156;Tunisie
+paysb;157;Turquie
+paysb;158;Tuvalu
+paysb;159;Urss (Ex)
+paysb;160;Uruguay
+paysb;161;Vatican (Saint-Siège)
+paysb;162;Vanuatu (Nouvelles Hébrides)
+paysb;163;Vénézuéla
+paysb;164;Vietnam
+paysb;165;Yémen
+paysb;166;Yougoslavie (Ex)
+paysb;167;Zaïre
+paysb;168;Zambie
+paysb;169;Zimbabwe
+paysb;170;Autre
+paysb;171;ne sait pas
+paysb;172;[Refus]
+paysb;173;Dom Tom
+pcs;1;agriculteur exploitant
+pcs;2;artisan
+pcs;3;commerçant
+pcs;4;chef d'entreprise
+pcs;5;profession libérale
+pcs;6;cadre, prof. intellect. sup
+pcs;7;contremaître, agent de maitrise
+pcs;8;technicien
+pcs;9;autre prof. intermédiaire
+pcs;10;employé
+pcs;11;ouvrier qualifié
+pcs;12;ouvrier non qualifié
+pcs;13;refus
+pcs;14;chômeur inscrit ou non à l'anpe
+pcs;15;etudiant-élève-formation-stage non rémunéré
+pcs;16;retraité(e), pré-retraité(e)
+pcs;17;retiré des affaires (ancien agri., art.)
+pcs;18;femme ou homme au foyer
+pcs;19;autre inactif (pension de réversion, invalidité)
+pcs;20;[refus]
+pub;0;[plusieurs réponses]
+pub;1;très souvent
+pub;2;de temps en temps
+pub;3;rarement
+pub;4;jamais
+pub;5;ne sait pas
+pub;9;[pas de réponse]
+raisonff;0;[plusieurs réponses]
+raisonff;1;pour repas
+raisonff;2;entre les repas
+raisonff;3;les 2
+raisonff;4;ne sait pas
+raisonff;9;[pas de réponse]
+recre;1;courir, sauter, jouer
+recre;2;jeux calmes, discuter, faire échanges
+recre;3;ne sait pas
+recre;4;[refus]
+regf;0;Nord Ouest
+regf;1;Est
+regf;2;Ile De France
+regf;3;Ouest
+regf;4;Centre
+regf;5;Centre Est
+regf;6;Sud Ouest
+regf;7;Sud Est
+region;1;Région Parisienne
+region;2;Champagne
+region;3;Picardie
+region;4;Haute-Normandie
+region;5;Centre
+region;6;Basse-Normandie
+region;7;Bourgogne
+region;8;Nord
+region;9;Lorraine
+region;10;Alsace
+region;11;Franche Comté
+region;12;Pays De Loire
+region;13;Bretagne
+region;14;Poitou Charentes
+region;15;Aquitaine
+region;16;Midi-Pyrénées
+region;17;Limousin
+region;18;Rhône-Alpes
+region;19;Auvergne
+region;20;Languedoc
+region;21;Provence Côte D'azur
+saisonf;1;hiver (janv-fev-mars)
+saisonf;2;printemps (avr-mai-juin)
+saisonf;3;eté (juil-août-sept)
+saisonf;4;automne (oct-nov-déc)
+sel;0;[plusieurs réponses]
+sel;1;jamais
+sel;2;rarement
+sel;3;souvent
+sel;4;toujours
+sel;9;[pas de réponse]
+sexe;1;homme
+sexe;2;femme
+situprof;1;occupe un emploi
+situprof;2;chômeur (anpe ou non)
+situprof;3;étudiant-élève-formation-stage
+situprof;4;retraité, pré-retraité
+situprof;5;retiré des affaires
+situprof;6;femme ou homme au foyer
+situprof;7;autre inactif
+situprof;8;[refus]
+statemp;1;salarié état
+statemp;2;salarié coll. locale
+statemp;3;salarié entreprise
+statemp;4;salarié chez particulier
+statemp;5;aide membre de sa famille
+statemp;6;chef d'entreprise salarié, PDG
+statemp;7;indépendant, à son compte
+statemp;8;[refus]
+statnutf;0;normal
+statnutf;1;en surpoids
+statnutf;2;obèse
+tabac;0;[plusieurs réponses]
+tabac;1;oui, quotidiennement
+tabac;2;oui, occasionnellement (<1 cig/jour)
+tabac;3;non, a déjà fumé
+tabac;4;non, n'a jamais fumé
+tabac;9;[pas de réponse]
+transp;1;transport en commun
+transp;2;vélo, trottinette
+transp;3;à pied
+transp;4;voiture
+transp;5;autre
+transp;6;ne sait pas
+travnuit;1;oui, toujours
+travnuit;2;oui, régulièrement
+travnuit;3;oui, occasionnellement
+travnuit;4;non, jamais
+travnuit;5;[refus]
+tsrj;0;[plusieurs réponses]
+tsrj;1;toujours
+tsrj;2;souvent
+tsrj;3;rarement
+tsrj;4;jamais
+tsrj;5;ne sait pas
+tsrj;9;[pas de réponse]
+typempla;1;cdd
+typempla;2;cdi temps complet
+typempla;3;cdi temps partiel
+typempla;4;apprentissage sous contrat
+typempla;5;intérim
+typempla;6;emploi jeune, ces
+typempla;7;stage entreprise
+typempla;8;sud est
+typempla;9;méditerranée
+typlait;1;Lait entier
+typlait;2;Lait demi-écrémé
+typlait;3;Lait écrémé
+typlait;4;Lait de soja
+typlait;5;Autre (chèvre,...)
+typlait;6;Ne consomme jamais de lait
+typlait;7;Ne sait pas
+typlait;9;Pas de réponse
+typsuc;1;Ajoute du sucre blanc ou roux
+typsuc;2;Ajoute du miel ou de la confiture
+typsuc;3;Ajoute un édulcorant
+typsuc;4;N'ajoute ni sucre ni édulcorant
+typsuc;5;N'en consomme pas
+typsuc;6;Autre
+typsuc;7;Fructose
+typsuc;9;Pas de réponse
+voeupoid;1;plus
+voeupoid;2;moins
+voeupoid;3;comme maintenant
+voeupoid;4;ne sait pas
+voeupoid;9;[pas de réponse]
+zeat;1;région parisienne
+zeat;2;bassin parisien est
+zeat;3;bassin parisien ouest
+zeat;4;nord
+zeat;5;est
+zeat;6;ouest
+zeat;7;sud ouest
+nojour;1;1er jour d'enregistrement
+nojour;2;2nd jour d'enregistrement
+nojour;3;3eme jour d'enregistrement
+nojour;4;4eme jour d'enregistrement
+nojour;5;5eme jour d'enregistrement
+nojour;6;6eme jour d'enregistrement
+nojour;7;7eme jour d'enregistrement
+norep;1;petit-déjeuner
+norep;2;collation matin
+norep;3;déjeuner
+norep;4;collation après-midi
+norep;5;dîner
+norep;6;collation du soir
+orialiA;0;Non renseigné
+orialiA;1;Frais
+orialiA;2;Conserve
+orialiA;3;Surgelé
+orialiA;4;Autre
+orialiB;0;Non renseigné
+orialiB;1;Industriel
+orialiB;2;Fait maison
+orialiB;3;Autre
+ouinon;0;Non
+ouinon;1;Oui
+avecqui;1;seul
+avecqui;2;en famille
+avecqui;3;avec des amis
+avecqui;4;autre
+avecqui;9;[pas de réponse]
+lieu;0;non renseigné ou non concerné
+lieu;1;chez soi
+lieu;2;a la cantine
+lieu;3;chez des amis
+lieu;4;au fast food
+lieu;5;au restaurant, café ...
+lieu;6;autre
+priserep;0;oui
+priserep;1;non
+priserep;9;ne sait pas
+alimcru;0;[plusieurs réponses]
+alimcru;1;au dessus alim. cuits
+alimcru;2;au dessous alim. cuits
+alimcru;3;là où il y a de la place
+alimcru;4;ne sait pas
+alimcru;9;[pas de réponse]
+claim;0;[plusieurs réponses]
+claim;1;toujours celui qui revendique un intérêt
+claim;2;parfois celui qui revendique un intérêt
+claim;3;toujours celui qui ne revendique rien
+claim;4;ne fait pas attention
+claim;9;[pas de réponse]
+diplomeb;1;aucun, mais lit-écrit
+diplomeb;2;aucun, stop école primaire
+diplomeb;3;aucun, stop collège
+diplomeb;4;aucun, stop après collège
+diplomeb;5;aucun, sans précision
+diplomeb;6;cep, diplôme fin études obligatoires
+diplomeb;7;cap, bep, bepc, brevet élém., beps
+diplomeb;8;brevet de techn., bp, bei, bec, bea
+diplomeb;9;bac techno. ou bac pro.
+diplomeb;10;bac général
+diplomeb;11;bts, dut, dest, deug, paramédical
+diplomeb;12;2ème,3ème cycle univ., grande école
+diplomeb;13;autre
+diplomeb;14;ne sait pas
+diplomeb;15;[refus]
+eaupuits;0;[plusieurs réponses]
+eaupuits;1;oui, pour boisson
+eaupuits;2;oui, mais pas pour boisson
+eaupuits;3;non
+eaupuits;4;ne sait pas
+eaupuits;9;[pas de réponse]
+frqtrait;0;[plusieurs réponses]
+frqtrait;1;plusieurs fois/an
+frqtrait;2;1 fois/an
+frqtrait;3;1 fois tous les 2 ans
+frqtrait;4;<1 fois tous les 2 ans
+frqtrait;5;ne sait pas
+frqtrait;9;[pas de réponse]
+inquiet;1;souvent
+inquiet;2;parfois
+inquiet;3;de temps en temps
+inquiet;4;jamais
+inquiet;5;ne sait pas
+inquiet;6;[refus]
+instruc;0;[plusieurs réponses]
+instruc;1;toujours
+instruc;2;souvent
+instruc;3;rarement
+instruc;4;jamais
+instruc;5;ne les lit pas
+instruc;9;[pas de réponse]
+logement;1;accédant à la propriété
+logement;2;propriétaire
+logement;3;locataire en HLM
+logement;4;autre locataire
+logement;5;autre (logé gratuitement,...)
+logement;6;ne sait pas
+logement;7;[refus]
+micronde;0;[plusieurs réponses]
+micronde;1;toujours
+micronde;2;souvent
+micronde;3;si mentionné sur emballage
+micronde;4;jamais
+micronde;5;n'achète pas ces produits
+micronde;6;n'a pas de micro-ondes
+micronde;9;[pas de réponse]
+nbrepas;0;[plusieurs réponses]
+nbrepas;1;en un seul repas
+nbrepas;2;en 2 repas
+nbrepas;3;en + de 2 repas
+nbrepas;4;ne sait pas
+nbrepas;5;n'en achète jamais
+nbrepas;9;[pas de réponse]
+nbtele;1;aucun
+nbtele;2;un
+nbtele;3;deux
+nbtele;4;trois ou plus
+nbtele;5;[refus]
+nbvoit;1;une voiture
+nbvoit;2;plusieurs voitures
+nbvoit;3;pas de voiture
+nbvoit;4;[refus]
+nonembal;1;1 jour
+nonembal;2;2-3 jours
+nonembal;3;4-7 jours
+nonembal;4;+ d'une semaine
+nonembal;5;ne sait pas
+nonembal;6;n'en achète jamais
+nonembal;9;[pas de réponse]
+pcschef;1;agriculteurs
+pcschef;2;artisan, commerçant, chef d'ent.
+pcschef;3;prof. lib., cadre
+pcschef;4;prof. intermédiaire
+pcschef;5;employés
+pcschef;6;ouvriers
+pcschef;7;retraités, anciens actifs
+pcschef;8;autres inactifs
+platcuis;0;[plusieurs réponses]
+platcuis;1;toujours le jour-même
+platcuis;2;au + tard, le lendemain
+platcuis;3;au + tard 2 jours après
+platcuis;4;parfois 3 jours ou + après
+platcuis;5;ne prépare jamais de plat cuisiné maison
+platcuis;6;ne sait pas
+platcuis;9;[pas de réponse]
+prodanx;1;oui
+prodanx;2;non
+prodanx;3;n'en mange pas tous les 2 jours pour d'autres raisons
+prodanx;4;ne sait pas
+prodanx;5;[refus]
+revenu;1;< 380 €/mois
+revenu;2;380 à moins de 530 €/mois
+revenu;3;530 à moins de 690 €/mois
+revenu;4;690 à moins de 840 €/mois
+revenu;5;840 à moins de 990 €/mois
+revenu;6;990 à moins de 1 300 €/mois
+revenu;7;1 300 à moins de 1 600 €/mois
+revenu;8;1 600 à moins de 1 900 €/mois
+revenu;9;1 900 à moins de 2 200 €/mois
+revenu;10;2 200 à moins de 2 500 €/mois
+revenu;11;2 500 à moins de 3 100 €/mois
+revenu;12;3 100 à moins de 4 600 €/mois
+revenu;13;+ de 4 600 €/mois
+revenu;14;ne sait pas
+revenu;15;[refus]
+salage;0;[plusieurs réponses]
+salage;1;toujours
+salage;2;souvent
+salage;3;rarement
+salage;4;jamais
+salage;5;ne sait pas
+salage;6;ne fait pas cette préparation
+salage;9;[pas de réponse]
+saliere;0;[plusieurs réponses]
+saliere;1;toujours
+saliere;2;souvent
+saliere;3;rarement
+saliere;4;jamais
+saliere;5;ne sait pas
+saliere;6;n'a pas de salière
+saliere;9;[pas de réponse]
+selcrud;0;[plusieurs réponses]
+selcrud;1;toujours
+selcrud;2;souvent
+selcrud;3;rarement
+selcrud;4;jamais
+selcrud;5;ne sait pas
+selcrud;6;ne fait jamais de crudités
+selcrud;9;[pas de réponse]
+situali;1;peut manger tous les aliments souhaités
+situali;2;a assez à manger mais pas tjs aliments souhaités
+situali;3;parfois n'a pas assez à manger
+situali;4;souvent n'a pas assez à manger
+situali;5;[refus]
+situfin;1;est à l'aise
+situfin;2;ça va
+situfin;3;c'est juste
+situfin;4;il faut faire attention
+situfin;5;y arrive difficilement
+situfin;6;ne peut y arriver sans dettes
+situfin;7;[refus]
+stokcons;0;[plusieurs réponses]
+stokcons;1;pièce ou placard à t° ambiante
+stokcons;2;pièce au frais
+stokcons;3;réfrigérateur
+stokcons;4;n'en a jamais
+stokcons;9;[pas de réponse]
+temp;1;1°
+temp;2;2°
+temp;3;3°
+temp;4;4°
+temp;5;5°
+temp;6;6°
+temp;7;7°
+temp;8;8°
+temp;9;9°
+temp;10;10°
+temp;11;11°
+temp;12;12°
+temp;13;13°
+temp;14;14°
+temp;15;15° ou plus
+temp;16;ne sait pas
+temp;99;[pas de réponse]
+thermo;0;[plusieurs réponses]
+thermo;1;n'a pas de thermomètre ds frigo
+thermo;2;a un thermomètre
+thermo;9;[pas de réponse]
+traiteau;0;[plusieurs réponses]
+traiteau;1;oui, un seul
+traiteau;2;oui, plusieurs
+traiteau;3;non
+traiteau;4;ne sait pas
+traiteau;9;[pas de réponse]
+typemplb;1;cdd
+typemplb;2;cdi temps complet
+typemplb;3;cdi temps partiel
+typemplb;4;apprentissage sous contrat
+typemplb;5;intérim
+typemplb;6;emploi jeune, ces, ...
+typemplb;7;stage entreprise
+typemplb;8;stagiaire en formation, élève-fonct.
+typemplb;9;ne sait pas
+typemplb;10;[refus]
+typesel;0;[plusieurs réponses]
+typesel;1;sel iodé et fluoré
+typesel;2;sel iodé
+typesel;3;sel ni iodé ni fluoré
+typesel;4;n'a pas de sel chez soi
+typesel;5;ne sait pas
+typesel;9;[pas de réponse]
+butadcanew;1;lutter contre fatigue
+butadcanew;2;résoudre pbs de santé particuliers
+butadcanew;3;combattre stress
+butadcanew;4;rester en bonne santé, lutter contre maladies
+butadcanew;5;résoudre pbs liés au travail, examens
+butadcanew;6;equilibrer son alimentation courante
+butadcanew;7;augmenter, entretenir son capital beauté
+butadcanew;8;compléter apports alimentaires insuffisants
+motivcanew;1;sur prescription médicale
+motivcanew;2;sur conseil d'un médecin (ou ordonnance)
+motivcanew;3;sur conseil d'un pharmacien
+motivcanew;4;sur conseil d'un diététicien
+motivcanew;5;sur un conseil reçu en magasin (hors pharmacie)
+motivcanew;6;sur conseil d'un parent ou ami
+motivcanew;7;en a entendu parler dans les médias
+motivcanew;8;a vu une publicité
+motivcanew;9;a découvert le produit et est incité à l'acheter
+motivcanew;10;autres circonstances
+motivcanew;11;aucune autre
+motivcanew;12;ne sait pas
+motivcanew;13;[refus]
+curecabis;1;3 ou 4 jours
+curecabis;2;1 semaine environ
+curecabis;3;2 semaines environ
+curecabis;4;3 semaines environ
+curecabis;5;1 mois
+curecabis;6;6 semaines
+curecabis;7;2 mois
+curecabis;8;3 mois
+curecabis;9;4 mois
+curecabis;10;5 mois
+curecabis;11;6 mois
+curecabis;12;7 mois
+curecabis;13;8 mois
+curecabis;14;9 mois
+curecabis;15;10 mois
+curecabis;16;11 mois
+curecabis;17;12 mois
+curecabis;99;ne sait pas
+lieuca;1;pharmacie
+lieuca;2;parapharmacie
+lieuca;3;magasin diététique
+lieuca;4;magasin de sport
+lieuca;5;magasin non spécialisé (supermarché)
+lieuca;6;internet
+lieuca;7;par correspondance (sauf internet)
+lieuca;8;ailleurs
+lieuca;9;ne sait pas
+lieuca;10;[refus]
+presca;1;comprimé
+presca;2;gélule
+presca;3;ampoule
+presca;4;capsule
+presca;5;sachet de poudre
+presca;6;cuillère à café de poudre
+presca;7;cuillère à soupe de poudre
+presca;8;autre présentation de poudre
+presca;9;cuillère à café de sirop
+presca;10;cuillère à soupe de sirop
+presca;11;autre présentation de sirop
+presca;12;autre
+presca;13;ne sait pas
+presca;14;[refus]

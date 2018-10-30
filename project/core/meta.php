@@ -23,6 +23,7 @@ and open the template in the editor.
         <script src="../scripts/leaflet/leaflet.js"></script>
         <!-- Functions -->
         <script src="../scripts/tests/test.js"></script> 
+        <script src="../scripts/auxilary/table.js"></script> 
     </head>
     <body>
 <?php include("../core/menu.php"); ?>

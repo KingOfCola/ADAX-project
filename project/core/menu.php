@@ -2,5 +2,6 @@
     <div class="w3-padding-64 w3-large w3-text-white" style="font-weight:bold">
         <a href="../board/main.php" class="w3-bar-item">Tests</a>
         <a href="../board/graphs.php" class="w3-bar-item">Graphs</a>
+        <a href="../board/openFoodFacts.php" class="w3-bar-item">Open Food Facts</a>
     </div>
 </nav>

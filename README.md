@@ -20,10 +20,10 @@ Quality and transparency of food products in France is a sensitive question nowa
 # A list of internal milestones up until project milestone 2
 1- General data analysis (to be done by Nov 8th)
 - Explore and clean the datasets.
-- Look at the possible joins between the OpenFoodFact and the 2015 ANSES study.
+- Look at the possible joins between OpenFoodFact and the 2015 ANSES study.
 2- Work on visualizations (to be done by Nov 20th)
 - Benchmark of different data visualization libraries.
-- Explore the different possible visualizations to find the more relevant. The 2015 ANSES study gather a lot of information about the persons studied and their food habit we cannot keep all this information for our final project so we have to extract the more meaningful elements to answer our questions and find ways to present these elements in a synthetic way. This include both a work on the data itself and investigations over the different way to visualize this data.
+- Explore the different possible visualizations to find the more relevant. The 2015 ANSES study gather a lot of information about the persons studied and their food habit: we cannot keep all this information for our final project so we have to extract the more meaningful elements to answer our questions and find ways to present these elements in a synthetic way. This include both a work on the data itself and investigations over the different ways to visualize this data.
 - Choose the best visualizations.
 3- Conclusion on milestone 2 (to be done by Nov 24th)
 - Come back on our initial questions: what answers did we find? how the project has evolved since milestone 1?

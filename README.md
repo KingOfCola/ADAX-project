@@ -45,3 +45,4 @@ A great disappointment lies in the fact there is absolutely no price values in a
 
 
 # Questions for TA
+Nothing at this stage of our project.

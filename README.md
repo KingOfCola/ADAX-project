@@ -10,7 +10,6 @@ Quality and transparency of food products in France is a sensitive question nowa
 * A lighter subject: do the "Bobos" (the French equivalent of "Hipsters") really exist from the standpoint of food habits ? I.e. is there really people who live in the cities, have a certain level of education, and buy a significantly high amount of organic food?
 
 # Dataset
-(List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.)
 <ul>
 <li>https://www.data.gouv.fr/fr/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-2-3/?fbclid=IwAR0QcjTQdH2N2xIXL_xTLHuUIx5YFVWKNOJ4PqetIzeLoq5HNbnSTTre_d8 
 <ul>
@@ -45,5 +44,4 @@ A great disappointment lies in the fact there is absolutely no price values in a
 - Planning the next milestone.
 
 
-# Questions for TAa
-(Add here some questions you have for us, in general or project-specific.)
+# Questions for TA

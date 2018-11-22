@@ -1,33 +1,33 @@
 a5gglo:
 1 rural
-2 2 000 Ã  20 000 hab.
-3 20 000 Ã  100 000 hab.
+2 2 000 à 20 000 hab.
+3 20 000 à 100 000 hab.
 4 > 100 000 hab
 5 agglo paris
 a9gglo:
 1 rural
-2 2 000 Ã  5 000 hab.
-3 5 000 Ã  10 000 hab.
-4 10 000 Ã  20 000 hab.
-5 20 000 Ã  50 000 hab.
-6 50 000 Ã  100 000 hab.
-7 100 000 Ã  200 000 hab.
+2 2 000 à 5 000 hab.
+3 5 000 à 10 000 hab.
+4 10 000 à 20 000 hab.
+5 20 000 à 50 000 hab.
+6 50 000 à 100 000 hab.
+7 100 000 à 200 000 hab.
 8 > 200 000 hab.
 9 agglo paris
 achpub:
-0 [plusieurs rÃ©ponses]
-1 a achetÃ©
-2 n'a pas achetÃ©
+0 [plusieurs réponses]
+1 a acheté
+2 n'a pas acheté
 3 ne se souvient pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 actifeps:
 1 pas eu cours d'EPS
 2 15 minutes ou moins
-3 16 Ã  30 minutes
-4 31 Ã  45 minutes
-5 46 Ã  60 minutes
-6 1h01 Ã  1h15
-7 1h15 Ã  1h30
+3 16 à 30 minutes
+4 31 à 45 minutes
+5 46 à 60 minutes
+6 1h01 à 1h15
+7 1h15 à 1h30
 8 plus de 1h30
 9 ne sait pas
 10 [refus]
@@ -47,25 +47,25 @@ agechef:
 4 50-64 ans
 5 65 ans et +
 aime:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 beaucoup
 2 assez
 3 un peu
 4 pas du tout
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 autcant:
-0 pas de rÃ©ponse
-1 dÃ©jeune chez la nourrice ou les grands-parents
-2 pas de cantine dans l'Ã©tablissement
+0 pas de réponse
+1 déjeune chez la nourrice ou les grands-parents
+2 pas de cantine dans l'établissement
 3 autres
 4 enfant difficile
 5 apprentissage
-6 manque de place Ã  la cantine
+6 manque de place à la cantine
 autdist:
-0 pas de rÃ©ponse
-1 boissons chaudes (thÃ©, tisane, cafÃ©, cappuccino)
-2 boisson chocolatÃ©e
+0 pas de réponse
+1 boissons chaudes (thé, tisane, café, cappuccino)
+2 boisson chocolatée
 3 viennoiserie
 4 sandwichs
 5 potage
@@ -73,69 +73,69 @@ autdist:
 7 laitage (lait, yaourt)
 8 autres
 autinfo:
-0 pas de rÃ©ponse
+0 pas de réponse
 1 profession
 2 professionnels de l'alimentaire (artisan)
 3 divers
-4 par la cuisine / Ã©cole de cuisine
+4 par la cuisine / école de cuisine
 5 environnement professionnel
 6 organismes officiels
-7 entraÃ®neur sportif
-8 confÃ©rences, salons
+7 entraîneur sportif
+8 conférences, salons
 autintal:
-0 pas de rÃ©ponse
-1 nÃ©cessitÃ© biologique
-2 convivialitÃ©
-3 connaÃ®tre l'origine des aliments
-4 rapport qualitÃ© prix
-5 lien alimentation santÃ©
+0 pas de réponse
+1 nécessité biologique
+2 convivialité
+3 connaître l'origine des aliments
+4 rapport qualité prix
+5 lien alimentation santé
 6 composition nutritionnelle des aliments
-7 thÃ©matique en lien avec la profession
+7 thématique en lien avec la profession
 8 mode de production agricole
 9 aspect culturel
-10 connaÃ®tre les rÃ©gimes pour grossir
+10 connaître les régimes pour grossir
 11 autres
 12 alimentation du sportif
 13 auto-production
-14 Ã©ducation alimentaire des enfants
+14 éducation alimentaire des enfants
 15 alimentation des enfants
-16 hygiÃ¨ne alimentaire
-Notice utilisation des donnÃ©es INCA 2
+16 hygiène alimentaire
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 15
 autreg:
-0 pas de rÃ©ponse
+0 pas de réponse
 1 divers
-2 alimentation particuliÃ¨re
+2 alimentation particulière
 3 enceinte
 4 pratique sportive
-5 allergie ou intolÃ©rance alimentaire
+5 allergie ou intolérance alimentaire
 6 pour prendre du poids
 7 allaitement
-8 difficultÃ©s financiÃ¨res
-9 rÃ©gime peu salÃ©
-10 baisse activitÃ© physique
+8 difficultés financières
+9 régime peu salé
+10 baisse activité physique
 11 anorexie
 autregme:
-0 pas de rÃ©ponse
-1 cholestÃ©rolÃ©mie
-2 diabÃ¨te
-3 problÃ¨mes cardiovasculaires
-4 allergie ou intolÃ©rance alimentaire
-5 problÃ¨mes intestinaux/digestifs
+0 pas de réponse
+1 cholestérolémie
+2 diabète
+3 problèmes cardiovasculaires
+4 allergie ou intolérance alimentaire
+5 problèmes intestinaux/digestifs
 6 multipathologie
 7 hypertension
 8 divers
-9 rÃ©gime sans sel
-10 problÃ¨mes de dos
+9 régime sans sel
+10 problèmes de dos
 11 colopathie
-12 problÃ¨mes rÃ©naux
+12 problèmes rénaux
 13 chirurgie intestinale
-14 rÃ©gime sans sel, sans gras, sans sucre
-15 rÃ©gime sans sucre
-16 traitement corticoÃ¯de
-17 triglycÃ©ridÃ©mie
+14 régime sans sel, sans gras, sans sucre
+15 régime sans sucre
+16 traitement corticoïde
+17 triglycéridémie
 18 hernie hiatale
-19 opÃ©rations
+19 opérations
 b11f:
 1 jamais
 2 1-2 fois/sem
@@ -146,7 +146,7 @@ b11f:
 7 3 fois/jour
 8 4 fois/jour ou +
 9 ne sait pas
-99 [pas de rÃ©ponse]
+99 [pas de réponse]
 b12f:
 1 jamais
 2 1-2 fois/sem
@@ -159,20 +159,20 @@ b12f:
 9 5 fois/jour
 10 6 fois/jour ou +
 11 ne sait pas
-99 [pas de rÃ©ponse]
+99 [pas de réponse]
 b22f:
-1 suit un rÃ©gime
-2 ne suit pas de rÃ©gime
+1 suit un régime
+2 ne suit pas de régime
 b39cig1f:
 1 moins d'une cigarette/jour
 98 ne sait pas
 99 fumeur de cigares ou pipes
 b39cig2f:
 1 moins d'une cigarette/jour
-2 1 Ã  5 cigarettes/jour
-3 6 Ã  10 cigarettes/jour
-4 11 Ã  15 cigarettes/jour
-5 16 Ã  20 cigarettes/jour
+2 1 à 5 cigarettes/jour
+3 6 à 10 cigarettes/jour
+4 11 à 15 cigarettes/jour
+5 16 à 20 cigarettes/jour
 6 plus de 20 cigarettes/jour
 7 ne sait pas
 c11lassb:
@@ -181,35 +181,35 @@ c11lassb:
 3 ce2
 4 cm1
 5 cm2
-6 6Ã¨me
-7 5Ã¨me
-8 4Ã¨me
-9 3Ã¨me
+6 6ème
+7 5ème
+8 4ème
+9 3ème
 10 2nde
-11 1Ã¨re
+11 1ère
 12 terminale
 13 bep
 14 cap
-15 clis (classe intÃ©gration scolaire)
+15 clis (classe intégration scolaire)
 c15lassb:
-1 6Ã¨me
-2 5Ã¨me
-3 4Ã¨me
-4 3Ã¨me
+1 6ème
+2 5ème
+3 4ème
+4 3ème
 5 2nde
-6 1Ã¨re
+6 1ère
 7 terminale
 8 bep
 9 cap
 10 bac pro
-11 Ã©cole spÃ©cialisÃ©e
-12 activitÃ© professionnelle
-13 pas scolarisÃ© ni en activitÃ© prof.
+11 école spécialisée
+12 activité professionnelle
+13 pas scolarisé ni en activité prof.
 14 autre
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 16
 c3lassb:
-1 pas scolarisÃ©
+1 pas scolarisé
 2 maternelle petite section
 3 maternelle moyenne section
 4 maternelle grande section
@@ -218,183 +218,183 @@ c3lassb:
 7 CE2
 8 CM1
 9 CM2
-10 6Ã¨me
-11 5Ã¨me
-12 4Ã¨me
-13 clis (classe intÃ©gration scolaire)
+10 6ème
+11 5ème
+12 4ème
+13 clis (classe intégration scolaire)
 14 autre
 cantine:
-0 [plusieurs rÃ©ponses saisies]
+0 [plusieurs réponses saisies]
 1 5 jours ou +/semaine
 2 3 ou 4 jours/semaine
 3 1 ou 2 jours/semaine
 4 <1 jour/semaine
 5 jamais
 6 ne sait pas
-7 vous n'Ãªtes plus scolarisÃ©
-9 [pas de rÃ©ponse]
+7 vous n'êtes plus scolarisé
+9 [pas de réponse]
 cible:
 1 adultes 18 ans et +
-2 enfants 3 Ã  10 ans
-3 enfants 11 Ã  14 ans
-4 enfants 15 Ã  17 ans
+2 enfants 3 à 10 ans
+3 enfants 11 à 14 ans
+4 enfants 15 à 17 ans
 colmata:
-0 [plusieurs rÃ©ponses]
-1 6 Ã  7 jours/semaine
-2 4 Ã  5 jours/semaine
-3 1 Ã  3 jours/semaine
+0 [plusieurs réponses]
+1 6 à 7 jours/semaine
+2 4 à 5 jours/semaine
+3 1 à 3 jours/semaine
 4 <1 jour/semaine
 5 jamais
 6 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 colmatb:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 tous les jours
 2 souvent mais pas ts les jours
 3 de temps en temps
 4 jamais
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 consocru:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 plusieurs fois/semaine
-2 1 Ã  3 fois/mois
+2 1 à 3 fois/mois
 3 <1 fois/mois
-4 jamais consommÃ© cru
-5 jamais consommÃ© cru ou cuit
+4 jamais consommé cru
+5 jamais consommé cru ou cuit
 6 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 consult:
-1 pas consultÃ©
-2 1 Ã  2 fois
-3 3 Ã  4 fois
+1 pas consulté
+2 1 à 2 fois
+3 3 à 4 fois
 4 5 fois ou +
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 cuiviand:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 jamais
 2 bleu
 3 saignant
 4 a point
 5 bien cuit
-6 trÃ¨s cuit
-9 [pas de rÃ©ponse]
+6 très cuit
+9 [pas de réponse]
 cycle:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui, + de 3 fois
-2 oui, 2 Ã  3 fois
+2 oui, 2 à 3 fois
 3 oui, 1 seule fois
 4 non, jamais
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 diplome:
-1 aucun, mais lit-Ã©crit
-2 aucun, stop Ã©cole primaire
-3 aucun, stop collÃ¨ge
-4 aucun, stop aprÃ¨s collÃ¨ge
-5 aucun, sans prÃ©cision
-6 cep, diplÃ´me fin Ã©tudes obligatoires
-7 cap, bep, bepc, brevet Ã©lÃ©m., beps
+1 aucun, mais lit-écrit
+2 aucun, stop école primaire
+3 aucun, stop collège
+4 aucun, stop après collège
+5 aucun, sans précision
+6 cep, diplôme fin études obligatoires
+7 cap, bep, bepc, brevet élém., beps
 8 brevet de techn., bp, bei, bec, bea
 9 bac techno. ou bac pro.
-10 bac gÃ©nÃ©ral
-11 bts, dut, dest, deug, paramÃ©dical
-12 2Ã¨me,3Ã¨me cycle univ., grande Ã©cole
+10 bac général
+11 bts, dut, dest, deug, paramédical
+12 2ème,3ème cycle univ., grande école
 13 autre
 14 [refus]
 distrib:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 tous les jours ou presque
-2 3 Ã  4 jours/semaine
-3 1 Ã  2 jours/semaine
+2 3 à 4 jours/semaine
+3 1 à 2 jours/semaine
 4 <1 jour/semaine
 5 jamais
 6 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 dlc:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 avant date limite
 2 le jour de la date limite
-3 1 Ã  3 jours aprÃ¨s date limite
-4 4 Ã  6 jours aprÃ¨s date limite
-5 1 semaine ou + aprÃ¨s date limite
+3 1 à 3 jours après date limite
+4 4 à 6 jours après date limite
+5 1 semaine ou + après date limite
 6 ne regarde pas la date limite
-7 n'en achÃ¨te jamais
-9 [pas de rÃ©ponse]
+7 n'en achète jamais
+9 [pas de réponse]
 echant:
 1 adultes
 2 enfants
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 17
 ecolea:
-1 est allÃ© Ã  l'Ã©cole
-2 pas allÃ© Ã  l'Ã©cole car malade
-3 pas allÃ© Ã  l'Ã©cole car en vacances
+1 est allé à l'école
+2 pas allé à l'école car malade
+3 pas allé à l'école car en vacances
 4 ne sait pas
 5 [refus]
 enrichis:
-0 [plusieurs rÃ©ponses]
-1 oui, dÃ¨s que possible
-2 oui, selon aliments ou nutriments ajoutÃ©
-3 non, pas prÃ©fÃ©rentiellement
-4 non, au contraire les Ã©vite
+0 [plusieurs réponses]
+1 oui, dès que possible
+2 oui, selon aliments ou nutriments ajouté
+3 non, pas préférentiellement
+4 non, au contraire les évite
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 entrerep:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 4 fois/jour ou +
-2 2 Ã  3 fois/jour
+2 2 à 3 fois/jour
 3 1 fois/jour
 4 <1 fois/jour, ms au moins 1 fois/semaine
 5 <1 fois/semaine
 6 jamais
 7 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 eps:
 1 oui
-2 non, est dispensÃ©
-3 non, n'avait pas de cours prÃ©vu
+2 non, est dispensé
+3 non, n'avait pas de cours prévu
 4 ne sait pas
 5 [refus]
 essai:
 1 perdre du poids
 2 ne pas prendre de poids
 3 gagner du poids
-4 n'est pas prÃ©occupÃ© par son poids
+4 n'est pas préoccupé par son poids
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 etiquet:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 lit et influence tjrs achat
 2 lit et influence parfois achat
 3 lit et n'influence jamais achat
 4 ne lit jamais cette partie
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 fastfood:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 tous les jours ou presque
-2 4 Ã  5 jours/semaine
-3 2 Ã  3 jours/semaine
+2 4 à 5 jours/semaine
+3 2 à 3 jours/semaine
 4 1 jour/semaine
-5 1 Ã  3 jours/mois
+5 1 à 3 jours/mois
 6 <1 jour/mois
 7 jamais
 8 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 groupe:
 1 Pain et biscottes
-2 CÃ©rÃ©ales pour petit dÃ©jeuner
-3 PÃ¢tes
+2 Céréales pour petit déjeuner
+3 Pâtes
 4 Riz et semoule
-5 Autres cÃ©rÃ©ales
+5 Autres céréales
 6 Viennoiseries
 7 Biscuits
-8 PÃ¢tisseries
+8 Pâtisseries
 9 Lait
 10 Ultra-frais laitier
 11 Fromages
-12 Oeufs et dÃ©rivÃ©s
+12 Oeufs et dérivés
 13 Beurre
 14 Huiles
 15 Margarine
@@ -404,127 +404,127 @@ groupe:
 19 Abats
 20 Charcuterie
 21 Poissons
-22 CrustacÃ©s et mollusques
-23 LÃ©gumes
+22 Crustacés et mollusques
+23 Légumes
 24 Pommes de terre
-25 LÃ©gumes secs
+25 Légumes secs
 26 Fruits
-27 Fruits secs et olÃ©agineux
+27 Fruits secs et oléagineux
 28 Glaces
 29 Chocolat
-30 Sucres et dÃ©rivÃ©s
+30 Sucres et dérivés
 31 Eaux
 32 BRSA
-33 Boissons alcoolisÃ©es
-34 CafÃ©
+33 Boissons alcoolisées
+34 Café
 35 Boissons chaudes
 36 Pizzas, quiches...
-37 Sandwiches, casse-croÃ»tes
+37 Sandwiches, casse-croûtes
 38 Soupes
-39 Plats composÃ©s
-40 EntrÃ©es
+39 Plats composés
+40 Entrées
 41 Entremets
 42 Compotes et fruits cuits
 43 Condiments et sauces
-44 Aliments destinÃ©s Ã  une alimentation particuliÃ¨re
+44 Aliments destinés à une alimentation particulière
 habitat:
 1 centre ville
-2 quartier pÃ©riphÃ©rique
+2 quartier périphérique
 3 bourg ou village
-4 habitat dispersÃ©
+4 habitat dispersé
 habitude:
 1 comme d'habitude
 2 moins que d'habitude
 3 plus que d'habitude
 4 ne sait pas
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 18
 ipaqf:
 1 bas
-2 modÃ©rÃ©
-3 Ã©levÃ©
+2 modéré
+3 élevé
 intalim:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 beaucoup
 2 un peu
 3 pas vraiment
 4 pas du tout
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 lienchef:
-1 lui-mÃªme
+1 lui-même
 2 conjoint, concubin
 3 enfant
-4 pÃ¨re, mÃ¨re
-5 frÃ¨re, soeur
+4 père, mère
+5 frère, soeur
 6 autre
 lienchfb:
-1 lui-mÃªme
+1 lui-même
 2 conjoint, concubin
 3 enfant
-4 pÃ¨re, mÃ¨re
-5 frÃ¨re, soeur
+4 père, mère
+5 frère, soeur
 6 belle fille, beau fils
-7 belle soeur, beau frÃ¨re
+7 belle soeur, beau frère
 8 colocataire
 9 autre (ami, gendre ...)
 lienenfb:
-1 pÃ¨re
-2 mÃ¨re
-3 beau pÃ¨re, belle mÃ¨re
-4 frÃ¨re, soeur
+1 père
+2 mère
+3 beau père, belle mère
+4 frère, soeur
 5 grand parent
 6 autre
 lieudej:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 chez soi
-2 Ã  la cantine (entreprise, Ã©cole, restau U)
+2 à la cantine (entreprise, école, restau U)
 3 sur lieu de travail (mais pas cantine)
 4 chez des amis
 5 au fast food
-6 au restaurant, pizzeria, cafÃ©tÃ©ria
-7 au cafÃ©, bistrot
+6 au restaurant, pizzeria, cafétéria
+7 au café, bistrot
 8 dans la rue, ou dans un parc
 9 chez famille (parents, enfants ...)
 10 dans sa voiture
-11 ne dÃ©jeune pas le midi
+11 ne déjeune pas le midi
 12 autre
-99 [pas de rÃ©ponse]
+99 [pas de réponse]
 matrim:
-1 cÃ©libataire
-2 mariÃ©(e)
-3 en couple non mariÃ© (pacs, concubinage)
+1 célibataire
+2 marié(e)
+3 en couple non marié (pacs, concubinage)
 4 veuf(ve)
-5 divorcÃ©(e), sÃ©parÃ©(e)
+5 divorcé(e), séparé(e)
 6 [refus]
 onref:
 1 oui
 2 non
 3 [refus]
 onsp:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui
 2 non
 3 ne sait pas
 4 [refus]
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 opipoids:
 1 d'un poids normal
 2 trop gros
 3 trop maigre
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 pasecole:
-1 crÃ¨che
+1 crèche
 2 chez nourrice ou grands-parents
-3 reste Ã  la maison
+3 reste à la maison
 4 [refus]
 paysb:
 1 France
 2 Afghanistan
 3 Afrique Du Sud
 4 Albanie
-5 AlgÃ©rie
+5 Algérie
 6 Allemagne
 7 Andorre
 8 Angola
@@ -534,18 +534,18 @@ paysb:
 12 Australie
 13 Autriche
 14 Bahamas
-15 BahreÃ¯n
+15 Bahreïn
 16 Bangladesh
 17 Barbade
 18 Belau (Palau)
 19 Belgique
 20 Belize
-21 BÃ©nin
+21 Bénin
 22 Bhoutan
 23 Birmanie
 24 Bolivie
 25 Botswana
-26 BrÃ©sil
+26 Brésil
 27 Brunei
 28 Bulgarie
 29 Burkina-Faso
@@ -554,27 +554,27 @@ paysb:
 32 Cameroun
 33 Canada
 34 Cap Vert
-35 RÃ©publique Centre Africaine
+35 République Centre Africaine
 36 Chili
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 19
 37 Chine
 38 Chypre
 39 Colombie
 40 Comores
 41 Congo
-42 CorÃ©e
+42 Corée
 43 Costa Rica
-44 CÃ´te d'ivoire
+44 Côte d'ivoire
 45 Cuba
 46 Danemark
 47 Djibouti
-48 RÃ©publique Dominicaine
+48 République Dominicaine
 49 Dominique
 50 Egypte
 51 Emirats Arabes Unis
 52 Equateur
-53 ErythrÃ©e
+53 Erythrée
 54 Espagne
 55 Etats Unis
 56 Ethiopie
@@ -583,32 +583,32 @@ OCA/cd/2014-058 19
 59 Gabon
 60 Gambie
 61 Ghana
-62 GrÃ¨ce
+62 Grèce
 63 Grenade
 64 Guatemala
-65 GuinÃ©e
+65 Guinée
 66 Guyana
-67 HaÃ¯ti
+67 Haïti
 68 Honduras
 69 Hongrie
 70 Inde
-71 IndonÃ©sie
+71 Indonésie
 72 Iran
 73 Irak
 74 Irlande
 75 Islande
-76 IsraÃ«l
+76 Israël
 77 Italie
-78 JamaÃ¯que
+78 Jamaïque
 79 Japon
 80 Jordanie
 81 Kenya
 82 Kiribati
-83 KoweÃ¯t
+83 Koweït
 84 Laos
 85 Lesotho
 86 Liban
-87 LibÃ©ria
+87 Libéria
 88 Libye
 89 Liechtenstein
 90 Luxembourg
@@ -623,26 +623,26 @@ OCA/cd/2014-058 19
 99 Maurice (Ile)
 100 Mauritanie
 101 Mexique
-102 MicronÃ©sie
+102 Micronésie
 103 Monaco
 104 Mongolie
 105 Mozambique
 106 Namibie
 107 Nauru
-108 NÃ©pal
+108 Népal
 109 Nicaragua
 110 Niger
 111 Nigeria
-112 NorvÃ¨ge
-113 Nouvelle ZÃ©lande
+112 Norvège
+113 Nouvelle Zélande
 114 Oman
 115 Ouganda
 116 Pakistan
 117 Panama
-118 Papouasie-Nouvelle GuinÃ©e
+118 Papouasie-Nouvelle Guinée
 119 Paraguay
 120 Pays-Bas
-121 PÃ©rou
+121 Pérou
 122 Philippines
 123 Pologne
 124 Portugal
@@ -650,47 +650,47 @@ OCA/cd/2014-058 19
 126 Roumanie
 127 Royaume-Uni
 128 Rwanda
-129 Saint-Christophe-Et-NiÃ©vÃ¨s
+129 Saint-Christophe-Et-Niévès
 130 Sainte-Lucie
 131 Saint-Marin
 132 Saint-Vincent-Et-Les Grenadines
 133 Salomon (Iles)
 134 Salvador
 135 Samoa Occidentales
-136 Sao TomÃ©-Et-Principe
-137 SÃ©nÃ©gal
+136 Sao Tomé-Et-Principe
+137 Sénégal
 138 Seychelles
 139 Sierra-Leone
 140 Singapour
 141 Somalie
 142 Soudan
 143 Sri Lanka
-144 SuÃ¨de
+144 Suède
 145 Suisse
 146 Surinam
 147 Swaziland
 148 Syrie
 149 Tanzanie
 150 Tchad
-151 TchÃ©coslovaquie
-152 ThaÃ¯lande
+151 Tchécoslovaquie
+152 Thaïlande
 153 Togo
 154 Tonga (Iles)
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 20
-155 TrinitÃ© Et Tobago
+155 Trinité Et Tobago
 156 Tunisie
 157 Turquie
 158 Tuvalu
 159 Urss (Ex)
 160 Uruguay
-161 Vatican (Saint-SiÃ¨ge)
-162 Vanuatu (Nouvelles HÃ©brides)
-163 VÃ©nÃ©zuÃ©la
+161 Vatican (Saint-Siège)
+162 Vanuatu (Nouvelles Hébrides)
+163 Vénézuéla
 164 Vietnam
-165 YÃ©men
+165 Yémen
 166 Yougoslavie (Ex)
-167 ZaÃ¯re
+167 Zaïre
 168 Zambie
 169 Zimbabwe
 170 Autre
@@ -700,42 +700,42 @@ OCA/cd/2014-058 20
 pcs:
 1 agriculteur exploitant
 2 artisan
-3 commerÃ§ant
+3 commerçant
 4 chef d'entreprise
-5 profession libÃ©rale
+5 profession libérale
 6 cadre, prof. intellect. sup
-7 contremaÃ®tre, agent de maitrise
+7 contremaître, agent de maitrise
 8 technicien
-9 autre prof. intermÃ©diaire
-10 employÃ©
-11 ouvrier qualifiÃ©
-12 ouvrier non qualifiÃ©
+9 autre prof. intermédiaire
+10 employé
+11 ouvrier qualifié
+12 ouvrier non qualifié
 13 refus
-14 chÃ´meur inscrit ou non Ã  l'anpe
-15 etudiant-Ã©lÃ¨ve-formation-stage non rÃ©munÃ©rÃ©
-16 retraitÃ©(e), prÃ©-retraitÃ©(e)
-17 retirÃ© des affaires (ancien agri., art.)
+14 chômeur inscrit ou non à l'anpe
+15 etudiant-élève-formation-stage non rémunéré
+16 retraité(e), pré-retraité(e)
+17 retiré des affaires (ancien agri., art.)
 18 femme ou homme au foyer
-19 autre inactif (pension de rÃ©version, invaliditÃ©)
+19 autre inactif (pension de réversion, invalidité)
 20 [refus]
 pub:
-0 [plusieurs rÃ©ponses]
-1 trÃ¨s souvent
+0 [plusieurs réponses]
+1 très souvent
 2 de temps en temps
 3 rarement
 4 jamais
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 raisonff:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 pour repas
 2 entre les repas
 3 les 2
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 recre:
 1 courir, sauter, jouer
-2 jeux calmes, discuter, faire Ã©changes
+2 jeux calmes, discuter, faire échanges
 3 ne sait pas
 4 [refus]
 regf:
@@ -748,7 +748,7 @@ regf:
 6 Sud Ouest
 7 Sud Est
 region:
-1 RÃ©gion Parisienne
+1 Région Parisienne
 2 Champagne
 3 Picardie
 4 Haute-Normandie
@@ -758,141 +758,141 @@ region:
 8 Nord
 9 Lorraine
 10 Alsace
-11 Franche ComtÃ©
+11 Franche Comté
 12 Pays De Loire
 13 Bretagne
 14 Poitou Charentes
 15 Aquitaine
-16 Midi-PyrÃ©nÃ©es
+16 Midi-Pyrénées
 17 Limousin
-18 RhÃ´ne-Alpes
+18 Rhône-Alpes
 19 Auvergne
 20 Languedoc
-21 Provence CÃ´te D'azur
+21 Provence Côte D'azur
 saisonf:
 1 hiver (janv-fev-mars)
 2 printemps (avr-mai-juin)
-3 etÃ© (juil-aoÃ»t-sept)
-4 automne (oct-nov-dÃ©c)
+3 eté (juil-août-sept)
+4 automne (oct-nov-déc)
 sel:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 jamais
 2 rarement
 3 souvent
 4 toujours
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 sexe:
 1 homme
 2 femme
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 21
 situprof:
 1 occupe un emploi
-2 chÃ´meur (anpe ou non)
-3 Ã©tudiant-Ã©lÃ¨ve-formation-stage
-4 retraitÃ©, prÃ©-retraitÃ©
-5 retirÃ© des affaires
+2 chômeur (anpe ou non)
+3 étudiant-élève-formation-stage
+4 retraité, pré-retraité
+5 retiré des affaires
 6 femme ou homme au foyer
 7 autre inactif
 8 [refus]
 statemp:
-1 salariÃ© Ã©tat
-2 salariÃ© coll. locale
-3 salariÃ© entreprise
-4 salariÃ© chez particulier
+1 salarié état
+2 salarié coll. locale
+3 salarié entreprise
+4 salarié chez particulier
 5 aide membre de sa famille
-6 chef d'entreprise salariÃ©, PDG
-7 indÃ©pendant, Ã  son compte
+6 chef d'entreprise salarié, PDG
+7 indépendant, à son compte
 8 [refus]
 statnutf:
 0 normal
 1 en surpoids
-2 obÃ¨se
+2 obèse
 tabac:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui, quotidiennement
 2 oui, occasionnellement (<1 cig/jour)
-3 non, a dÃ©jÃ  fumÃ©
-4 non, n'a jamais fumÃ©
-9 [pas de rÃ©ponse]
+3 non, a déjà fumé
+4 non, n'a jamais fumé
+9 [pas de réponse]
 transp:
 1 transport en commun
-2 vÃ©lo, trottinette
-3 Ã  pied
+2 vélo, trottinette
+3 à pied
 4 voiture
 5 autre
 6 ne sait pas
 travnuit:
 1 oui, toujours
-2 oui, rÃ©guliÃ¨rement
+2 oui, régulièrement
 3 oui, occasionnellement
 4 non, jamais
 5 [refus]
 tsrj:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 typempla:
 1 cdd
 2 cdi temps complet
 3 cdi temps partiel
 4 apprentissage sous contrat
-5 intÃ©rim
+5 intérim
 6 emploi jeune, ces
 7 stage entreprise
-8 stagiaire en formation, Ã©lÃ¨ve-fonct.
+8 stagiaire en formation, élève-fonct.
 9 [refus]
-8 sud est
-9 mÃ©diterranÃ©e
 typlait:
 1 Lait entier
-2 Lait demi-Ã©crÃ©mÃ©
-3 Lait Ã©crÃ©mÃ©
+2 Lait demi-écrémé
+3 Lait écrémé
 4 Lait de soja
-5 Autre (chÃ¨vre,...)
+5 Autre (chèvre,...)
 6 Ne consomme jamais de lait
 7 Ne sait pas
-9 Pas de rÃ©ponse
+9 Pas de réponse
 typsuc:
 1 Ajoute du sucre blanc ou roux
 2 Ajoute du miel ou de la confiture
-3 Ajoute un Ã©dulcorant
-4 N'ajoute ni sucre ni Ã©dulcorant
+3 Ajoute un édulcorant
+4 N'ajoute ni sucre ni édulcorant
 5 N'en consomme pas
 6 Autre
 7 Fructose
-9 Pas de rÃ©ponse
+9 Pas de réponse
 voeupoid:
 1 plus
 2 moins
 3 comme maintenant
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 zeat:
-1 rÃ©gion parisienne
+1 région parisienne
 2 bassin parisien est
 3 bassin parisien ouest
 4 nord
 5 est
 6 ouest
 7 sud ouest
+8 sud est
+9 méditerranée
 groupe:
 1 Pain et biscottes
-2 CÃ©rÃ©ales pour petit dÃ©jeuner
-3 PÃ¢tes
+2 Céréales pour petit déjeuner
+3 Pâtes
 4 Riz et semoule
-5 Autres cÃ©rÃ©ales
+5 Autres céréales
 6 Viennoiseries
 7 Biscuits
-8 PÃ¢tisseries
+8 Pâtisseries
 9 Lait
 10 Ultra-frais laitier
 11 Fromages
-12 Oeufs et dÃ©rivÃ©s
+12 Oeufs et dérivés
 13 Beurre
 14 Huiles
 15 Margarine
@@ -902,27 +902,27 @@ groupe:
 19 Abats
 20 Charcuterie
 21 Poissons
-22 CrustacÃ©s et mollusques
-23 LÃ©gumes
+22 Crustacés et mollusques
+23 Légumes
 24 Pommes de terre
-25 LÃ©gumes secs
+25 Légumes secs
 26 Fruits
-27 Fruits secs et olÃ©agineux
-Notice utilisation des donnÃ©es INCA 2
+27 Fruits secs et oléagineux
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 25
 28 Glaces
 29 Chocolat
-30 Sucres et dÃ©rivÃ©s
+30 Sucres et dérivés
 31 Eaux
 32 BRSA
-33 Boissons alcoolisÃ©es
-34 CafÃ©
+33 Boissons alcoolisées
+34 Café
 35 Boissons chaudes
 36 Pizzas, quiches...
-37 Sandwiches, casse-croÃ»tes
+37 Sandwiches, casse-croûtes
 38 Soupes
-39 Plats composÃ©s
-40 EntrÃ©es
+39 Plats composés
+40 Entrées
 41 Entremets
 42 Compotes et fruits cuits
 43 Condiments et sauces
@@ -936,20 +936,20 @@ nojour:
 6 6eme jour d'enregistrement
 7 7eme jour d'enregistrement
 norep:
-1 Petit-dÃ©jeuner
+1 Petit-déjeuner
 2 Collation matin
-3 DÃ©jeuner
-4 Collation aprÃ¨s-midi
-5 DÃ®ner
+3 Déjeuner
+4 Collation après-midi
+5 Dîner
 6 Collation du soir
 orialiA:
-0 Non renseignÃ©
+0 Non renseigné
 1 Frais
 2 Conserve
-3 SurgelÃ©
+3 Surgelé
 4 Autre
 orialiB:
-0 Non renseignÃ©
+0 Non renseigné
 1 Industriel
 2 Fait maison
 3 Autre
@@ -961,14 +961,14 @@ avecqui:
 2 en famille
 3 avec des amis
 4 autre
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 lieu:
-0 non renseignÃ© ou non concernÃ©
+0 non renseigné ou non concerné
 1 chez soi
 2 a la cantine
 3 chez des amis
 4 au fast food
-5 au restaurant, cafÃ© ...
+5 au restaurant, café ...
 6 autre
 nojour:
 1 1er jour d'enregistrement
@@ -979,11 +979,11 @@ nojour:
 6 6eme jour d'enregistrement
 7 7eme jour d'enregistrement
 norep:
-1 petit-dÃ©jeuner
+1 petit-déjeuner
 2 collation matin
-3 dÃ©jeuner
-4 collation aprÃ¨s-midi
-5 dÃ®ner
+3 déjeuner
+4 collation après-midi
+5 dîner
 6 collation du soir
 priserep:
 0 oui
@@ -991,83 +991,83 @@ priserep:
 9 ne sait pas
 a9gglo:
 1 rural
-2 2 000 Ã  5 000 hab.
-3 5 000 Ã  10 000 hab.
-4 10 000 Ã  20 000 hab.
-5 20 000 Ã  50 000 hab.
-6 50 000 Ã  100 000 hab.
-7 100 000 Ã  200 000 hab.
+2 2 000 à 5 000 hab.
+3 5 000 à 10 000 hab.
+4 10 000 à 20 000 hab.
+5 20 000 à 50 000 hab.
+6 50 000 à 100 000 hab.
+7 100 000 à 200 000 hab.
 8 > 200 000 hab.
 9 agglo paris
 a5gglo:
 1 rural
-2 2 000 Ã  20 000 hab.
-3 20 000 Ã  100 000 hab.
+2 2 000 à 20 000 hab.
+3 20 000 à 100 000 hab.
 4 > 100 000 hab
 5 agglo paris
 alimcru:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 au dessus alim. cuits
 2 au dessous alim. cuits
-3 lÃ  oÃ¹ il y a de la place
+3 là où il y a de la place
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 claim:
-0 [plusieurs rÃ©ponses]
-1 toujours celui qui revendique un intÃ©rÃªt
-2 parfois celui qui revendique un intÃ©rÃªt
+0 [plusieurs réponses]
+1 toujours celui qui revendique un intérêt
+2 parfois celui qui revendique un intérêt
 3 toujours celui qui ne revendique rien
 4 ne fait pas attention
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 diplomeb:
-1 aucun, mais lit-Ã©crit
-2 aucun, stop Ã©cole primaire
-3 aucun, stop collÃ¨ge
-4 aucun, stop aprÃ¨s collÃ¨ge
-5 aucun, sans prÃ©cision
-6 cep, diplÃ´me fin Ã©tudes obligatoires
-7 cap, bep, bepc, brevet Ã©lÃ©m., beps
+1 aucun, mais lit-écrit
+2 aucun, stop école primaire
+3 aucun, stop collège
+4 aucun, stop après collège
+5 aucun, sans précision
+6 cep, diplôme fin études obligatoires
+7 cap, bep, bepc, brevet élém., beps
 8 brevet de techn., bp, bei, bec, bea
 9 bac techno. ou bac pro.
-10 bac gÃ©nÃ©ral
-11 bts, dut, dest, deug, paramÃ©dical
-12 2Ã¨me,3Ã¨me cycle univ., grande Ã©cole
+10 bac général
+11 bts, dut, dest, deug, paramédical
+12 2ème,3ème cycle univ., grande école
 13 autre
 14 ne sait pas
 15 [refus]
 dlc:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 avant date limite
 2 le jour de la date limite
-3 1 Ã  3 jours aprÃ¨s date limite
-4 4 Ã  6 jours aprÃ¨s date limite
-5 1 semaine ou + aprÃ¨s date limite
+3 1 à 3 jours après date limite
+4 4 à 6 jours après date limite
+5 1 semaine ou + après date limite
 6 ne regarde pas la date limite
-7 n'en achÃ¨te jamais
-9 [pas de rÃ©ponse]
+7 n'en achète jamais
+9 [pas de réponse]
 eaupuits:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui, pour boisson
 2 oui, mais pas pour boisson
 3 non
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 echant:
 1 adultes
 2 enfants
 frqtrait:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 plusieurs fois/an
 2 1 fois/an
 3 1 fois tous les 2 ans
 4 <1 fois tous les 2 ans
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 habitat:
 1 centre ville
-2 quartier pÃ©riphÃ©rique
+2 quartier périphérique
 3 bourg ou village
-4 habitat dispersÃ©
+4 habitat dispersé
 inquiet:
 1 souvent
 2 parfois
@@ -1076,40 +1076,40 @@ inquiet:
 5 ne sait pas
 6 [refus]
 instruc:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne les lit pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 logement:
-1 accÃ©dant Ã  la propriÃ©tÃ©
-2 propriÃ©taire
+1 accédant à la propriété
+2 propriétaire
 3 locataire en HLM
 4 autre locataire
-5 autre (logÃ© gratuitement,...)
+5 autre (logé gratuitement,...)
 6 ne sait pas
 7 [refus]
 micronde:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
-3 si mentionnÃ© sur emballage
+3 si mentionné sur emballage
 4 jamais
-5 n'achÃ¨te pas ces produits
+5 n'achète pas ces produits
 6 n'a pas de micro-ondes
-9 [pas de rÃ©ponse]
-Notice utilisation des donnÃ©es INCA 2
+9 [pas de réponse]
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 32
 nbrepas:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 en un seul repas
 2 en 2 repas
 3 en + de 2 repas
 4 ne sait pas
-5 n'en achÃ¨te jamais
-9 [pas de rÃ©ponse]
+5 n'en achète jamais
+9 [pas de réponse]
 nbtele:
 1 aucun
 2 un
@@ -1127,58 +1127,58 @@ nonembal:
 3 4-7 jours
 4 + d'une semaine
 5 ne sait pas
-6 n'en achÃ¨te jamais
-9 [pas de rÃ©ponse]
+6 n'en achète jamais
+9 [pas de réponse]
 onref:
 1 oui
 2 non
 3 [refus]
 onsp:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui
 2 non
 3 ne sait pas
 4 [refus]
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 pcs:
 1 agriculteur exploitant
 2 artisan
-3 commerÃ§ant
+3 commerçant
 4 chef d'entreprise
-5 profession libÃ©rale
+5 profession libérale
 6 cadre, prof. intellect. sup
-7 contremaÃ®tre, agent de maitrise
+7 contremaître, agent de maitrise
 8 technicien
-9 autre prof. intermÃ©diaire
-10 employÃ©
-11 ouvrier qualifiÃ©
-12 ouvrier non qualifiÃ©
+9 autre prof. intermédiaire
+10 employé
+11 ouvrier qualifié
+12 ouvrier non qualifié
 13 refus
-14 chÃ´meur inscrit ou non Ã  l'anpe
-15 etudiant-Ã©lÃ¨ve-formation-stage non rÃ©munÃ©rÃ©
-16 retraitÃ©(e), prÃ©-retraitÃ©(e)
-17 retirÃ© des affaires (ancien agri., art.)
+14 chômeur inscrit ou non à l'anpe
+15 etudiant-élève-formation-stage non rémunéré
+16 retraité(e), pré-retraité(e)
+17 retiré des affaires (ancien agri., art.)
 18 femme ou homme au foyer
-19 autre inactif (pension de rÃ©version, invaliditÃ©)
+19 autre inactif (pension de réversion, invalidité)
 20 [refus]
 pcschef:
 1 agriculteurs
-2 artisan, commerÃ§ant, chef d'ent.
+2 artisan, commerçant, chef d'ent.
 3 prof. lib., cadre
-4 prof. intermÃ©diaire
-5 employÃ©s
+4 prof. intermédiaire
+5 employés
 6 ouvriers
-7 retraitÃ©s, anciens actifs
+7 retraités, anciens actifs
 8 autres inactifs
 platcuis:
-0 [plusieurs rÃ©ponses]
-1 toujours le jour-mÃªme
+0 [plusieurs réponses]
+1 toujours le jour-même
 2 au + tard, le lendemain
-3 au + tard 2 jours aprÃ¨s
-4 parfois 3 jours ou + aprÃ¨s
-5 ne prÃ©pare jamais de plat cuisinÃ© maison
+3 au + tard 2 jours après
+4 parfois 3 jours ou + après
+5 ne prépare jamais de plat cuisiné maison
 6 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 prodanx:
 1 oui
 2 non
@@ -1195,62 +1195,62 @@ regf:
 6 Sud Ouest
 7 Sud Est
 revenu:
-1 < 380 â‚¬/mois
-2 380 Ã  moins de 530 â‚¬/mois
-3 530 Ã  moins de 690 â‚¬/mois
-4 690 Ã  moins de 840 â‚¬/mois
-5 840 Ã  moins de 990 â‚¬/mois
-6 990 Ã  moins de 1 300 â‚¬/mois
-7 1 300 Ã  moins de 1 600 â‚¬/mois
-8 1 600 Ã  moins de 1 900 â‚¬/mois
-9 1 900 Ã  moins de 2 200 â‚¬/mois
-10 2 200 Ã  moins de 2 500 â‚¬/mois
-11 2 500 Ã  moins de 3 100 â‚¬/mois
-12 3 100 Ã  moins de 4 600 â‚¬/mois
-13 + de 4 600 â‚¬/mois
+1 < 380 €/mois
+2 380 à moins de 530 €/mois
+3 530 à moins de 690 €/mois
+4 690 à moins de 840 €/mois
+5 840 à moins de 990 €/mois
+6 990 à moins de 1 300 €/mois
+7 1 300 à moins de 1 600 €/mois
+8 1 600 à moins de 1 900 €/mois
+9 1 900 à moins de 2 200 €/mois
+10 2 200 à moins de 2 500 €/mois
+11 2 500 à moins de 3 100 €/mois
+12 3 100 à moins de 4 600 €/mois
+13 + de 4 600 €/mois
 14 ne sait pas
 15 [refus]
-Notice utilisation des donnÃ©es INCA 2
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 33
 salage:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne sait pas
-6 ne fait pas cette prÃ©paration
-9 [pas de rÃ©ponse]
+6 ne fait pas cette préparation
+9 [pas de réponse]
 saliere:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne sait pas
-6 n'a pas de saliÃ¨re
-9 [pas de rÃ©ponse]
+6 n'a pas de salière
+9 [pas de réponse]
 selcrud:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne sait pas
-6 ne fait jamais de cruditÃ©s
-9 [pas de rÃ©ponse]
+6 ne fait jamais de crudités
+9 [pas de réponse]
 sexe:
 1 homme
 2 femme
 situali:
-1 peut manger tous les aliments souhaitÃ©s
-2 a assez Ã  manger mais pas tjs aliments souhaitÃ©s
-3 parfois n'a pas assez Ã  manger
-4 souvent n'a pas assez Ã  manger
+1 peut manger tous les aliments souhaités
+2 a assez à manger mais pas tjs aliments souhaités
+3 parfois n'a pas assez à manger
+4 souvent n'a pas assez à manger
 5 [refus]
 situfin:
-1 est Ã  l'aise
-2 Ã§a va
+1 est à l'aise
+2 ça va
 3 c'est juste
 4 il faut faire attention
 5 y arrive difficilement
@@ -1258,88 +1258,88 @@ situfin:
 7 [refus]
 situprof:
 1 occupe un emploi
-2 chÃ´meur (anpe ou non)
-3 Ã©tudiant-Ã©lÃ¨ve-formation-stage
-4 retraitÃ©, prÃ©-retraitÃ©
-5 retirÃ© des affaires
+2 chômeur (anpe ou non)
+3 étudiant-élève-formation-stage
+4 retraité, pré-retraité
+5 retiré des affaires
 6 femme ou homme au foyer
 7 autre inactif
 8 [refus]
 statemp:
-1 salariÃ© Ã©tat
-2 salariÃ© coll. locale
-3 salariÃ© entreprise
-4 salariÃ© chez particulier
+1 salarié état
+2 salarié coll. locale
+3 salarié entreprise
+4 salarié chez particulier
 5 aide membre de sa famille
-6 chef d'entreprise salariÃ©, PDG
-7 indÃ©pendant, Ã  son compte
+6 chef d'entreprise salarié, PDG
+7 indépendant, à son compte
 8 [refus]
 stokcons:
-0 [plusieurs rÃ©ponses]
-1 piÃ¨ce ou placard Ã  tÂ° ambiante
-2 piÃ¨ce au frais
-3 rÃ©frigÃ©rateur
+0 [plusieurs réponses]
+1 pièce ou placard à t° ambiante
+2 pièce au frais
+3 réfrigérateur
 4 n'en a jamais
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 temp:
-1 1Â°
-2 2Â°
-3 3Â°
-4 4Â°
-5 5Â°
-6 6Â°
-7 7Â°
-8 8Â°
-9 9Â°
-10 10Â°
-11 11Â°
-12 12Â°
-13 13Â°
-14 14Â°
-15 15Â° ou plus
+1 1°
+2 2°
+3 3°
+4 4°
+5 5°
+6 6°
+7 7°
+8 8°
+9 9°
+10 10°
+11 11°
+12 12°
+13 13°
+14 14°
+15 15° ou plus
 16 ne sait pas
-99 [pas de rÃ©ponse]
+99 [pas de réponse]
 thermo:
-0 [plusieurs rÃ©ponses]
-1 n'a pas de thermomÃ¨tre ds frigo
-2 a un thermomÃ¨tre
-9 [pas de rÃ©ponse]
+0 [plusieurs réponses]
+1 n'a pas de thermomètre ds frigo
+2 a un thermomètre
+9 [pas de réponse]
 traiteau:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui, un seul
 2 oui, plusieurs
 3 non
 4 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 tsrj:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 toujours
 2 souvent
 3 rarement
 4 jamais
 5 ne sait pas
-9 [pas de rÃ©ponse]
-Notice utilisation des donnÃ©es INCA 2
+9 [pas de réponse]
+Notice utilisation des données INCA 2
 OCA/cd/2014-058 34
 typemplb:
 1 cdd
 2 cdi temps complet
 3 cdi temps partiel
 4 apprentissage sous contrat
-5 intÃ©rim
+5 intérim
 6 emploi jeune, ces, ...
 7 stage entreprise
-8 stagiaire en formation, Ã©lÃ¨ve-fonct.
+8 stagiaire en formation, élève-fonct.
 9 ne sait pas
 10 [refus]
 typesel:
-0 [plusieurs rÃ©ponses]
-1 sel iodÃ© et fluorÃ©
-2 sel iodÃ©
-3 sel ni iodÃ© ni fluorÃ©
+0 [plusieurs réponses]
+1 sel iodé et fluoré
+2 sel iodé
+3 sel ni iodé ni fluoré
 4 n'a pas de sel chez soi
 5 ne sait pas
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 age:
 1 3-10 ans
 2 11-14 ans
@@ -1351,43 +1351,43 @@ age:
 8 65 ans et +
 butadcanew:
 1 lutter contre fatigue
-2 rÃ©soudre pbs de santÃ© particuliers
+2 résoudre pbs de santé particuliers
 3 combattre stress
-4 rester en bonne santÃ©, lutter contre maladies
-5 rÃ©soudre pbs liÃ©s au travail, examens
+4 rester en bonne santé, lutter contre maladies
+5 résoudre pbs liés au travail, examens
 6 equilibrer son alimentation courante
-7 augmenter, entretenir son capital beautÃ©
-8 complÃ©ter apports alimentaires insuffisants
+7 augmenter, entretenir son capital beauté
+8 compléter apports alimentaires insuffisants
+9 combler des besoins particuliers liés à activité sportive
+10 combler des besoins particuliers liés à grossesse
+11 autre but
+12 aucun autre
+13 ne sait pas
+14 [refus]
 echant:
 1 adultes
 2 enfants
 motivcanew:
-1 sur prescription mÃ©dicale
-2 sur conseil d'un mÃ©decin (ou ordonnance)
+1 sur prescription médicale
+2 sur conseil d'un médecin (ou ordonnance)
 3 sur conseil d'un pharmacien
-4 sur conseil d'un diÃ©tÃ©ticien
-5 sur un conseil reÃ§u en magasin (hors pharmacie)
+4 sur conseil d'un diététicien
+5 sur un conseil reçu en magasin (hors pharmacie)
 6 sur conseil d'un parent ou ami
-7 en a entendu parler dans les mÃ©dias
-8 a vu une publicitÃ©
-9 a dÃ©couvert le produit et est incitÃ© Ã  l'acheter
+7 en a entendu parler dans les médias
+8 a vu une publicité
+9 a découvert le produit et est incité à l'acheter
 10 autres circonstances
 11 aucune autre
 12 ne sait pas
 13 [refus]
 onsp:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui
 2 non
 3 ne sait pas
 4 [refus]
-9 [pas de rÃ©ponse]
-9 combler des besoins particuliers liÃ©s Ã  activitÃ© sportive
-10 combler des besoins particuliers liÃ©s Ã  grossesse
-11 autre but
-12 aucun autre
-13 ne sait pas
-14 [refus]
+9 [pas de réponse]
 sexe:
 1 homme
 2 femme
@@ -1413,33 +1413,33 @@ curecabis:
 lieuca:
 1 pharmacie
 2 parapharmacie
-3 magasin diÃ©tÃ©tique
+3 magasin diététique
 4 magasin de sport
-5 magasin non spÃ©cialisÃ© (supermarchÃ©)
+5 magasin non spécialisé (supermarché)
 6 internet
 7 par correspondance (sauf internet)
 8 ailleurs
 9 ne sait pas
 10 [refus]
 onsp:
-0 [plusieurs rÃ©ponses]
+0 [plusieurs réponses]
 1 oui
 2 non
 3 ne sait pas
 4 [refus]
-9 [pas de rÃ©ponse]
+9 [pas de réponse]
 presca:
-1 comprimÃ©
-2 gÃ©lule
+1 comprimé
+2 gélule
 3 ampoule
 4 capsule
 5 sachet de poudre
-6 cuillÃ¨re Ã  cafÃ© de poudre
-7 cuillÃ¨re Ã  soupe de poudre
-8 autre prÃ©sentation de poudre
-9 cuillÃ¨re Ã  cafÃ© de sirop
-10 cuillÃ¨re Ã  soupe de sirop
-11 autre prÃ©sentation de sirop
+6 cuillère à café de poudre
+7 cuillère à soupe de poudre
+8 autre présentation de poudre
+9 cuillère à café de sirop
+10 cuillère à soupe de sirop
+11 autre présentation de sirop
 12 autre
 13 ne sait pas
 14 [refus]

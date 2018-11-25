@@ -50,6 +50,7 @@ A great disappointment lies in the fact there is absolutely no price values in a
 - We used the INCA dataset to study more people's health and food habit with regard to their social background (education, living place, gender, age,...). 
     - We often restricted our study to adults because children's nutrition is a whole subject in itself and studying blindly children and adults together would have led to incoherent results.
     - In order to compare people's health we decided to use the Body Mass Index. It is a simple estimator that allows us to discriminate quickly underweight/overweight/obese persons by comparing their weigth to their height. This indicator has its limits of course (it is discussed more in the notebook).
+    - We notice variations in food consumption with age and social class.
 - The main limit of the INCA dataset is that even if we have plenty of variables it is difficult to compare several criteria at the same time. For instance we will have enough people to make statistics on female between 18 and 24 years or people living in a given region but if we want to study female between 18 and 24 years in this given region we will end up with very few persons. This is quite normal but it makes our analysis more complex because when we see a trend we would like to be sure that it is not due to a hidden variable (for instance the differences between regions can be cultural but can also be simply due to the fact some regions are younger than others).
     
 

@@ -1,0 +1,36 @@
+Nom de la variable;Type;Libellé du codage;Libellé de la variable;ValRef_homme;ValRef_femme
+nutj4;Float;;Protéines (en g/j);65;52
+nutj5;Float;;Glucides disponibles, y compris polyols (en g/j);330;265
+nutj6;Float;;Lipides (en g/j);80;65
+nutj7;Float;;Alcool (en g/j);0;0
+nutj8;Float;;Acides gras mono-insaturés (en g/j);NaN;NaN
+nutj9;Float;;Acides gras polyinsaturés (en g/j);NaN;NaN
+nutj10;Float;;Acides gras saturés (en g/j);NaN;NaN
+nutj11;Float;;Amidon (en g/j);NaN;NaN
+nutj12;Float;;Glucides simples (en g/j);NaN;NaN
+nutj13;Float;;Fibres (en g/j);25;25
+nutj14;Float;;Cholestérol (en mg/j);NaN;NaN
+nutj15;Float;;Eau (en g/j);2500;2000
+nutj16;Float;;Calcium (en mg/j);800;800
+nutj17;Float;;Fer (en mg/j);6;6
+nutj18;Float;;Sodium (en mg/j);2000;2000
+nutj19;Float;;Magnésium (en mg/j);400;360
+nutj20;Float;;Manganèse (en mg/j);2.8;2.5
+nutj21;Float;;Phosphore (en mg/j);700;700
+nutj22;Float;;Potassium (en mg/j);2000;2000
+nutj23;Float;;Cuivre (en mg/j);1;0.8
+nutj24;Float;;Zinc (en mg/j);9.3;7.6
+nutj25;Float;;Sélénium (en µg/j);70;70
+nutj26;Float;;Iode (en µg/j);150;150
+nutj27;Float;;Rétinol (en µg/j);800;800
+nutj28;Float;;Béta-carotène (en µg/j);4200;4200
+nutj30;Float;;Vitamine C (en mg/j);90;90
+nutj31;Float;;Vitamine D (en µg/j);10;10
+nutj32;Float;;Vitamine E (en mg/j);10.5;9.9
+nutj33;Float;;Vitamine B1 ou thiamine (en mg/j);1.5;1.2
+nutj34;Float;;Vitamine B2 ou riboflavine (en mg/j);1.8;1.5
+nutj35;Float;;Vitamine B3 ou niacine (en mg/j);14.4;11.4
+nutj36;Float;;Vitamine B5 ou acide pantothénique (en mg/j);5.8;4.7
+nutj37;Float;;Vitamine B6 ou pyridoxine (en mg/j);1.8;1.5
+nutj38;Float;;Vitamine B9 ou folates (en µg/j);250;250
+nutj39;Float;;Vitamine B12 ou colobamine (en ?g/j);4;4

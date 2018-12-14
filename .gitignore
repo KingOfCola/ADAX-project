@@ -1,2 +1,4 @@
 project/data/en.openfoodfacts.org.products.csv
 *.parquet
+/project/HTML5Application/nbproject/private/
+/project/ada_project/nbproject/private/

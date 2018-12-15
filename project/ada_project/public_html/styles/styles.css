@@ -39,10 +39,28 @@ nav
 {
     background-color: rgba(136,99,88,0.4);
     color: #fbc54d;
+    padding: 5px 20px 5px 20px;
+}
+
+.subsection-title
+{
+    background-color: rgba(136,99,88,0.2);
+    color: #fbc54d;
+    padding: 3px 12px 3px 12px;
+}
+
+h2, h3
+{
+    margin: 0;
 }
 
 .map
 {
     width: 1080px;
     height: 480px;
+}
+
+.comment
+{
+    color: #ff0000;
 }

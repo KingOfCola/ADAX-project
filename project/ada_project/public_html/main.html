@@ -11,11 +11,12 @@
     <link rel="stylesheet" href="styles/styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<!--    <script>
+    <script src="scripts/navbar.js"></script>
+    <script>
         $(function () {
-            $("#OFF_map").load("outputs/OFF/map_world.html");
+            fillNavBarUl();
         });
-    </script>-->
+    </script>
 </head>
 <body>
 
@@ -29,21 +30,9 @@
                 </button>
                 <a class="navbar-brand" href="#">Logo</a>
             </div>
-            <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#introduction">INTRODUCTION</a></li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#csp">INFLUENCE OF CSP
-                        <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#bmi">BMI</a></li>
-                    </ul>
-                </li>
-                <li><a href="#stores">STORES</a></li>
-                <li><a href="#organic_food">ORGANIC FOOD</a></li>
-            </ul>
-          </div>
+            <div class="collapse navbar-collapse" id="navbar-div">
+<!--                Automatically filled-->
+            </div>
         </div>
     </nav>
     <div class="body">
@@ -52,44 +41,84 @@
 
             </div>
             <div id="main" class="col-sm-8">
+                <!--  Introduction -->
+                
                 <div id="introduction" class="container section">
                     <div class="section-title">
                         <h2>Introduction</h2>
                     </div>
-                    <div class="subsection">
+                    <div id="bmi" class="subsection">
                         <div class="subsection-title">
-                            <h3>About Open Food Facts</h3>
+                            <h3>Stakes:social and health impact.</h3>
                         </div>
+                        <p class="comment">[food as a social marker and cost of nutrition related diseases]</p>
                     </div>
-                    <p>Blah blah blah...</p>
-                     <iframe class="map" src="outputs/OFF/map_world.html"></iframe> 
                 </div>
-                <div id="csp" class="container section">
+                <!--  Overview -->
+                <div id="overview" class="container section">
                     <div class="section-title">
-                        <h2>Influence of csp</h2>
+                        <h2>Overview of French population</h2>
                     </div>
+                    <p class="comment">Overview of French population regarding CMI and other global issues</p>
                     <div id="bmi" class="subsection">
                         <div class="subsection-title">
                             <h3>BMI</h3>
                         </div>
                     </div>
-                    <p>Blah blah blah...</p>
-                </div>
-                <div id="stores" class="container section">
-                    <div class="section-title">
-                        <h2>Stores</h2>
-                    </div>
-                    <div class="subsection">
+                    <div id="salt" class="subsection">
                         <div class="subsection-title">
-                            <h3>Distribution of stores</h3>
+                            <h3>Salt</h3>
+                        </div>
+                    </div>
+                    <div id="fibers" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Fibers</h3>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--  Inequalities -->
+                <div id="inequalities" class="container section">
+                    <div class="section-title">
+                        <h2>Food inequalities accross society</h2>
+                    </div>
+                    <div id="social-class" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Social class</h3>
+                        </div>
+                    </div>
+                    <div id="diploma" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Diploma</h3>
+                        </div>
+                    </div>
+                    <div id="age" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Age</h3>
                         </div>
                     </div>
                     <p>Blah blah blah...</p>
                 </div>
+                
+                <!--  Organic Food -->
+                <div id="stores" class="container section">
+                    <div class="section-title">
+                        <h2>Stores</h2>
+                    </div>
+                    <p class="comment">[Is the right food in the right store?]</p>
+                    <div id="store-nutriscore" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Nutriscore</h3>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--  Organic Food -->
                 <div id="organic_food" class="container section">
                     <div class="section-title">
                         <h2>Organic food</h2>
                     </div>
+                    <p class="comment">[Eat organic and you shall be okay... That simple?]</p>
                     <div class="subsection">
                         <div class="subsection-title">
                             <h3>Nutriscore</h3>
@@ -97,10 +126,37 @@
                     </div>
                     <p>Blah blah blah...</p>
                 </div>
-                <div id="references" class="container section">
+                
+                <!--  Fruits versus "readymade meals" -->
+                <div id="fruits" class="container section">
                     <div class="section-title">
-                        <h2>References</h2>
+                        <h2>Fruits versus "readymade meals"</h2>
                     </div>
+                    <p>Blah blah blah...</p>
+                </div>
+                
+                <!--  Fruits versus "readymade meals" -->
+                <div id="others" class="container section">
+                    <div class="section-title">
+                        <h2>Other considerations</h2>
+                    </div>
+                    <p>Blah blah blah...</p>
+                </div>
+                
+                <!-- Abouts -->
+                <div id="about" class="container section">
+                    <div class="section-title">
+                        <h2>About</h2>
+                    </div>
+                    
+                    <div id="OFF" class="subsection">
+                        <div class="subsection-title">
+                            <h3>Open Food Facts</h3>
+                        </div>
+                        <p>Blah blah blah...</p>
+                        <iframe class="map" src="outputs/OFF/map_world.html"></iframe> 
+                    </div>
+                    <p>Blah blah blah...</p>
                     <div class="subsection">
                         <div class="subsection-title">
                             <h3>Reference values</h3>

@@ -4,11 +4,13 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="../img/icon/grapes.ico" type="image/x-icon">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../bootstrap-4.1.3-dist/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="../bootstrap-4.1.3-dist/css/style.css">
+    <link rel="stylesheet" href="../styles/styles.css">
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -16,13 +18,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="../bootstrap-4.1.3-dist/js/bootstrap.js"></script>
 
-    <title>Hello, world!</title>
+    <title>Life of food</title>
   </head>
   <body class="background">
       <nav class="site-header sticky-top py-1">
           <div class="container d-flex flex-column flex-md-row justify-content-between">
             <a class="py-2" href="#">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-block mx-auto"><circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line></svg>
+              <img src="../img/icon/grapes.ico" width=24 height=24/>
             </a>
             <a class="py-2 d-none d-md-inline-block" href="introduction.html">Introduction</a>
             <a class="py-2 d-none d-md-inline-block" href="overview.html">Overview</a>
@@ -39,8 +41,79 @@
     <div class="container">
       <div class="jumbotron bg-light">
             <div class="col-md-12">
-              <h1>Organic food</h1>
-              <h3>Nutriscore</h3>
+				<h1>Organic food</h1>
+				<h3>Organic food history</h3>
+				Organic food is a trend that originated a few years ago as a response to chemical fertilizers and pesticides. For a few years now, those chemical products are for a great part supposed to have heavy and disastrous repercussions on health, as well for consumers as for producers. 
+				<div class="thumbnail">
+					<img src="../img/organic/organic_evolution.png" alt="organic evolution" style="width:100%">
+					<div class="caption">
+						<p>Evolution of organic fields and producers in France</p>
+					</div>
+				</div>
+				Organic food has encountered two different wide expansion phases:
+				<ul>
+					<li>One in the late 90s</li>
+					<li>One in the 2010s</li>
+				</ul>
+				Organic food is appears through many advertising campaigns and in many minds to be healthy food, almost miracle food. But how is it really?
+				
+				<h3>Products</h3>
+				What are the main differences between organic and non-organic food?
+				<div class="row text-center">
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/organic/wordcloud-nonorganic.png" alt="non-organic wordcloud" style="width:100%">
+							<div class="caption">
+								<p>Non organic product categories</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/organic/wordcloud-organic-nomask.png" alt="organic wordcloud" style="width:100%">
+							<div class="caption">
+								<p>Organic product categories</p>
+							</div>
+						</div>
+					</div>
+				</div> 
+				On these word clouds, it appears that both organic and non-organic food cover a large panel of products and don't seem to have a fundamentally different offer from each other. The only notable fact is that non-organic food seems to favor prepared meals. On the other hand, organic food seems to have a very wide offer for spread, probably in order to counter some well known trademark.
+				
+				<h3>Nutriscore</h3>
+				In order to compare the healthiness of organic food in comparison to non-organic one, we use a indicator aggregating values for different nutrients: the <em>nutriscore</em>. 
+				<h4>Overview</h4>
+				<div class="row text-center">
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/organic/all-nutriscore.png" alt="all nutriscore" style="width:100%">
+							<div class="caption">
+								<p>Comparison of nutriscores for organic and non organic products.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<h4>Special cases</h4>
+				After seeing the overall distribution of nutriscores among organic and no-organic products, we aim at comparing them for specific categories of product. That way, we might see some differences at a more local scale that are invisible at a global scale.
+				<div class="row text-center">
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/organic/cereals-nutriscore.png" alt="all nutriscore" style="width:100%">
+							<div class="caption">
+								<p>Comparison of nutriscores for organic and non organic products.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/organic/drinks-nutriscore.png" alt="all nutriscore" style="width:100%">
+							<div class="caption">
+								<p>Comparison of nutriscores for organic and non organic products.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<h4>Conlusion</h4>
+				Organic food is not consistently healthier than non organic one on the sole consideration of nutrients. Most of organic products just contain as much energy, sugars, fats as their non-organic counterparts. However, the organic label does not take into account at all the nutriscore or the nutritional values of a product. It only takes into account the fact that a product was produced with our without pesticides and some controversial chemical substances. Some myth around organic food being the panacea might simply be an extrapolation of the value of that label. Organic food might be healthier because it contains less chemical substances, but not because it contains healthier nutrients. In addition, one might think that this trend has been enhanced by advertising campaigns 
             </div>
       </div>
     </div>

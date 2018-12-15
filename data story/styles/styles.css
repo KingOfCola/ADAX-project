@@ -1,0 +1,56 @@
+.thumbnail
+{
+	border: 1px solid #D0D0D0;
+	border-radius: 4px;
+	padding: 4px;
+}
+
+.caption
+{
+	font-style: italic;
+	font-size: 11pt;
+}
+
+.container {
+    max-width: 960px;
+  }
+
+.title-container {
+  background-image: url("../img/title/fruits.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+  
+
+
+.background{
+  background-image: url("../img/title/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+  /*
+   * Custom translucent site header
+   */
+  
+  .site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+  .site-header a {
+    color: #999;
+    transition: ease-in-out color .15s;
+  }
+  .site-header a:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .map{
+    width: 100%;
+    height: 500px;
+  }
+  
+  

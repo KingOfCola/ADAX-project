@@ -60,6 +60,11 @@ h2, h3
     height: 480px;
 }
 
+.figure img
+{
+    width: 720px;
+}
+
 .comment
 {
     color: #ff0000;

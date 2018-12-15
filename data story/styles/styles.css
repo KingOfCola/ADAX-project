@@ -22,6 +22,14 @@
   color: #fff;
 }
   
+
+
+.background{
+  background-image: url("../img/title/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
   /*
    * Custom translucent site header
    */
@@ -44,7 +52,5 @@
     width: 100%;
     height: 500px;
   }
-
-  
   
   

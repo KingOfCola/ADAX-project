@@ -44,12 +44,37 @@
 				<h1>Organic food</h1>
 				<h3>Organic food history</h3>
 				Organic food is a trend that originated a few years ago as a response to chemical fertilizers and pesticides. For a few years now, those chemical products are for a great part supposed to have heavy and disastrous repercussions on health, as well for consumers as for producers. 
-				<div class="thumbnail">
-					<img src="../img/organic/organic_evolution.png" alt="organic evolution" style="width:100%">
-					<div class="caption">
-						<p>Evolution of organic fields and producers in France</p>
-					</div>
+				<br>
+				<br>
+				<div class="btn-group" role="group" aria-label="Basic example">
+  					<button type="button" class="btn btn-secondary" onclick="show('2008')">2008</button>
+  					<button type="button" class="btn btn-secondary" onclick="show('2009')">2009</button>
+  					<button type="button" class="btn btn-secondary" onclick="show('2010')">2010</button>
+					<button type="button" class="btn btn-secondary" onclick="show('2011')">2011</button>
 				</div>
+				<br>
+				<br>
+				<div id="2008" style="display:block;">
+					<iframe class="map" src="../visualisations/2008.html" frameBorder="1"></iframe>
+					<br>
+					Organic agriculture land in 2008.
+				</div>
+				<div id="2009" style="display:none;">
+  					<iframe class="map" src="../visualisations/2009.html" frameBorder="1"></iframe>
+					<br>
+					Organic agriculture land in 2009.
+				</div>
+				<div id="2010" style="display:none;">
+  					<iframe class="map" src="../visualisations/2010.html" frameBorder="1"></iframe>
+					<br>
+					Organic agriculture land in 2010.
+				</div>
+				<div id="2011" style="display:none;">
+  					<iframe class="map" src="../visualisations/2011.html" frameBorder="1"></iframe>
+					<br>
+					Organic agriculture land in 2011.
+				</div>
+				<br>
 				Organic food has encountered two different wide expansion phases:
 				<ul>
 					<li>One in the late 90s</li>
@@ -117,7 +142,14 @@
             </div>
       </div>
     </div>
-
-    
   </body>
+  <script>
+	function show(id) {
+		document.getElementById('2008').style.display = "none";
+		document.getElementById('2009').style.display = "none";
+		document.getElementById('2010').style.display = "none";
+		document.getElementById('2011').style.display = "none";
+		document.getElementById(id).style.display = "block";
+	} 
+	</script>
 </html>

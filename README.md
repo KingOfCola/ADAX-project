@@ -68,7 +68,57 @@ A great disappointment lies in the fact there is absolutely no price values in a
 - Choose the best format for the report.
 - Create the report by gathering the results of the two previous sections in the chosen format.
 
-## 4- Update the readme and plan the presentation (December the 15th) 
+## 4- Update the readme and plan the presentation (December the 15th)
+
+# Summary of milestone 3
+
+The preliminary data analysis of Milestone 2 gave us the possibility to decide the organisation of our data story and the type of visualisations we wanted. We extended the notebook `Milestone 2.ipynb` by coding these visualisations. As several part of this notebook have been extended we tried to make the new contributions obvious by giving to the new subsections names that start by "Milestone 3".
+
+From the work done in Milestone 2 we've decided to:
+
+- Keep the organic food analysis of Milestone 2. We've improved it by using the KL entropy as suggested in the review of the Milestone. We also coded maps and graphs that allow to understand a bit more the context of organic farming in France.
+- Keep the BMI indicator for an overview of the french population (interactive histogram in the overview section of the data story) and box plots combined with scatterplots in "Observed inequalities" section. We only kept the boxplots of Milestone 2 that were the most significant (for instance we did not keep the box plots according to the living place) and we made them interactive using bokeh library.
+- Keep the nutrient analysis according to social class. We've improved it by making clearer bar charts and by translating all the elements in english (as the ANSES study is in french, there is a work of translation before displaying the results). We've also tried to plot a pca in order to see if social classes or age category could e distinguish by looking at nutrient intakes. Unfortunately this analysis did not lead to very interpretable results so we did not keep it for the data story.
+- Add a section to compare different stores: do cheaper stores have a worse nutriscore than more expensive ones?
+- Do some additional research on food impact on health in order to document the introduction and the conclusion of our report and also to have some more interesting comments to give on our plots.
+
+We've also decided that our report would be a data story. This data story is available in the "data story" folder and also at `https://github.com/ADAX-Food-Inequalities/Data_story` (we've followed the instructions given on mattermost and created an organisation on github to store our data story).
+
+# A list of internal milestones up until project milestone 4
+
+## Choose the elements and visualisations we want to keep for the poster (December 22nd)
+We should decide which visualisations will be useful for the poster. We have to plan the modifications that would need to be done on them (we have several interactive visualisations that have to be adapted if we want to use them on a poster, i.e. as static visualisations). As we will have less space we might need to create some new visualisations that summarize the main elements of several visualisations used in our data story.
+
+## Code the adaptations and the new visualizations (January 5th)
+The decisions taken during the previous internal milestone will have to be put into practice in order to have all our visualisations available by January the 5th.
+
+## Create the poster (January 10th)
+Create a poster with the given visualisations.
+
+## Prepare the speech (January the 15th)
+Prepare the 3 minutes speech, choose the person who will speak. If needed prepare the optional elements we want to display during the presentation.
+
+# Contributions of different team members
+
+## Milestone 1
+Mainly a team work, the draft was written during a meeting. Then the abstract  and the research questions was written by Joseph, the dataset analysis written by Urvan and the list of internal milestones up until project milestone 2 by Lucile.
+
+## Milestone 2
+The different possible analysis to be done were decided during a team meeting then:
+- Urvan coded the analysis of organic food and some data pre-processing of the INCA study
+- Jospeh coded the analysis of nutrient intakes
+- Lucile coded the BMI study, tobacco consumption and updated the README
+Each team member wrote the textual interpretation of the results he or she had obtained.
+
+## Milestone 3
+The final plan of our data story was decided during a team meeting then:
+- Urvan coded the visualisations of organic food and stores
+- Joseph coded the visualisations of nutrient intakes including the pca
+- Lucile coded the BMI study, some maps for the organic agriculture and updated the README
+As one could notice, we divided the work the same way than for Milestone 2. The template of the data story was coded by Lucile and modified by Urvan. Then each team member added the parts corresponding to his/her visualisations and the related textual interpretations. Lucile wrote the introduction and conclusion.
+
+## Milestone 4
+We plan to do the first internal milestone during a team meeting before the holidays. Then each of us will code/adapt the visualisations corresponding to the part of the project he or she has supervised during milestone 2 and 3. The last 2 internal milestones will be done during team meetings.
 
 
 # Questions for TA

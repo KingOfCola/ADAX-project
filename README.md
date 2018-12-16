@@ -105,16 +105,20 @@ Mainly a team work, the draft was written during a meeting. Then the abstract  a
 
 ## Milestone 2
 The different possible analysis to be done were decided during a team meeting then:
+
 - Urvan coded the analysis of organic food and some data pre-processing of the INCA study
 - Jospeh coded the analysis of nutrient intakes
 - Lucile coded the BMI study, tobacco consumption and updated the README
+
 Each team member wrote the textual interpretation of the results he or she had obtained.
 
 ## Milestone 3
 The final plan of our data story was decided during a team meeting then:
+
 - Urvan coded the visualisations of organic food and stores
 - Joseph coded the visualisations of nutrient intakes including the pca
 - Lucile coded the BMI study, some maps for the organic agriculture and updated the README
+
 As one could notice, we divided the work the same way than for Milestone 2. The template of the data story was coded by Lucile and modified by Urvan. Then each team member added the parts corresponding to his/her visualisations and the related textual interpretations. Lucile wrote the introduction and conclusion.
 
 ## Milestone 4

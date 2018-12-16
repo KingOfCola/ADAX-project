@@ -53,7 +53,117 @@
       <div class="jumbotron bg-light">
             <div class="col-md-12">
 				<h1>Stores</h1>
-				
+				The Open Food Facts data base gathers essentially products from France and United States. Therefore, in order to compare the results, we concentrated our study on France stores. French stores and supermarket have different reputations. Some like <em>Lidl</em> or <em>Aldi</em> are very cheap and discount stores whereas <em>Monoprix</em> is supposed to be a high quality super market. Some others like <em>Carrefour</em> or <em>Leclerc</em> are intermediate superior quality supermarkets. <br/>
+				Question is: if the difference of reputation is somewhat obvious on the prices of the products in those stores, does a significant difference also exists on the quality of the food?
+				<h3>Hierarchy of stores</h3>
+				Just like for the comparison between organic and non-organic food, the nutriscore is used to compare the quality of the food sold by the stores. The lower the nutriscore, the higher the quality of the food. 
+				<div class="row text-center">
+					<div class="col-md-3"></div>
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/stores/nutriscore-stores.png" alt="stores nutriscores" style="width:100%">
+							<div class="caption">
+								<p>Comparison of nutriscores between stores.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3"></div>
+				</div>
+				Only the top 10 represented stores in the Open Food Facts data base are represented in order to have a clarity of the graphs and to compare stores with comparable number of products referenced. <br/>
+				On this chart, there appears to be some differences between the mean nutriscore of the stores. However, the variance for a given store is quite high given the multiplicity of categories of products sold. If these differences are significant, could we create a hierarchy of stores and sort them into quality levels?
+				<h3>Levels of quality</h3>
+				<div class="row text-center">
+					<div class="col-md-3"></div>
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/stores/pvalues.png" alt="stores nutriscores pvalues" style="width:100%">
+							<div class="caption">
+								<p><em>p</em>-values of the difference between the distributions of nutriscores for each store.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3"></div>
+				</div>
+				By considering a threshold of 0.01, we can construct a graph linking stores with a not substantially different distribution of nutriscores. That way, we are able to cluster them.
+				<div class="row text-center">
+					<div class="col-md-3"></div>
+					<div class="col-md-6">
+						<div class="thumbnail">
+							<img src="../img/stores/graph.png" alt="stores nutriscores pvalues" style="width:100%">
+							<div class="caption">
+								<p>Graph of equivalent stores.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3"></div>
+				</div>
+				<div class="row text-center" style="margin-top:15px;">
+					<div class="col-md-5">
+						<div class="thumbnail row text-center">
+							<div class="col-md-6">
+								<img src="../img/stores/u.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/intermarche.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/lidl.png" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/aldi.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="caption">
+								<p>Low-cost low quality food.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2"></div>
+					<div class="col-md-5">
+						<div class="thumbnail row text-center">
+							<div class="col-md-6">
+								<img src="../img/stores/auchan.png" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/carrefour.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/monoprix.png" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/stores/leclerc.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="caption">
+								<p>More expensive food of higher quality.</p>
+							</div>
+						</div>
+					</div>
+				</div><div class="row text-center" style="margin-top:15px;">
+					<div class="col-md-5">
+						<div class="thumbnail row text-center">
+							<div class="col-md-3"></div>
+							<div class="col-md-6">
+								<img src="../img/stores/casino.jpg" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-3"></div>
+							<div class="caption">
+								<p>High quality food.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2"></div>
+					<div class="col-md-5">
+						<div class="thumbnail row text-center">
+							<div class="col-md-3"></div>
+							<div class="col-md-6">
+								<img src="../img/stores/picard.png" alt="stores nutriscores pvalues" style="width:100%">
+							</div>
+							<div class="col-md-3"></div>
+							<div class="caption">
+								<p>High quality food. (An outlier not selling the same products as the others)</p>
+							</div>
+						</div>
+					</div>
+				</div>
             </div>
       </div>
       <div class="col-md-12">

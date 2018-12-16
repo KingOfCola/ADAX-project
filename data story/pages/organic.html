@@ -55,43 +55,26 @@
 				<h1>Organic food</h1>
 				<h3>Organic food history</h3>
 				Organic food is a trend that originated a few years ago as a response to chemical fertilizers and pesticides. For a few years now, those chemical products are for a great part supposed to have heavy and disastrous repercussions on health, as well for consumers as for producers. 
-				<br>
-				<br>
-				<div class="btn-group" role="group" aria-label="Basic example">
-  					<button type="button" class="btn btn-secondary" onclick="show('2008')">2008</button>
-  					<button type="button" class="btn btn-secondary" onclick="show('2009')">2009</button>
-  					<button type="button" class="btn btn-secondary" onclick="show('2010')">2010</button>
-					<button type="button" class="btn btn-secondary" onclick="show('2011')">2011</button>
+				<div id="year-buttons" class="btn-group" role="group" aria-label="Basic example"></div>
+				<div id="maps"></div>
+				<div class="row text-center">
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+						<div class="thumbnail">
+							<img src="../img/organic/organic_evolution_2.png" alt="non-organic wordcloud" style="width:100%">
+							<div class="caption">
+								<p>Evolution of organic fields proportion.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2"></div>
 				</div>
-				<br>
-				<br>
-				<div id="2008" style="display:block;">
-					<iframe class="map" src="../visualisations/2008.html" frameBorder="1"></iframe>
-					<br>
-					Organic agriculture land in 2008.
-				</div>
-				<div id="2009" style="display:none;">
-  					<iframe class="map" src="../visualisations/2009.html" frameBorder="1"></iframe>
-					<br>
-					Organic agriculture land in 2009.
-				</div>
-				<div id="2010" style="display:none;">
-  					<iframe class="map" src="../visualisations/2010.html" frameBorder="1"></iframe>
-					<br>
-					Organic agriculture land in 2010.
-				</div>
-				<div id="2011" style="display:none;">
-  					<iframe class="map" src="../visualisations/2011.html" frameBorder="1"></iframe>
-					<br>
-					Organic agriculture land in 2011.
-				</div>
-				<br>
 				Organic food has encountered two different wide expansion phases:
 				<ul>
 					<li>One in the late 90s</li>
 					<li>One in the 2010s</li>
 				</ul>
-				Organic food is appears through many advertising campaigns and in many minds to be healthy food, almost miracle food. But how is it really?
+				Organic food appears through many advertising campaigns and in many minds to be healthy food, almost miracle food. But how is it really?
 				
 				<h3>Products</h3>
 				What are the main differences between organic and non-organic food?
@@ -119,6 +102,7 @@
 				In order to compare the healthiness of organic food in comparison to non-organic one, we use a indicator aggregating values for different nutrients: the <em>nutriscore</em>. 
 				<h4>Overview</h4>
 				<div class="row text-center">
+					<div class="col-md-2"></div>
 					<div class="col-md-6">
 						<div class="thumbnail">
 							<img src="../img/organic/all-nutriscore.png" alt="all nutriscore" style="width:100%">
@@ -127,6 +111,7 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-md-2"></div>
 				</div>
 				<h4>Special cases</h4>
 				After seeing the overall distribution of nutriscores among organic and no-organic products, we aim at comparing them for specific categories of product. That way, we might see some differences at a more local scale that are invisible at a global scale.
@@ -159,12 +144,37 @@
     </div>
   </body>
   <script>
+	function importMaps() {
+		var buttons = $("#year-buttons");
+		var maps = $("#maps");
+		for (var year=2008; year < 2017; year++) {
+			var button = $("<button></button>")
+				.attr("type", "button")
+				.attr("year", year)
+				.addClass("btn btn-default")
+				.on({"click": function(){show($(this).attr("year"));}})
+				.text(year);
+			var map = $("<iframe></iframe>")
+				.addClass("map")
+				.attr("src", "../visualisations/organic_surfaces_" + year + ".html");
+			var legend = $("<p></p>")
+				.addClass("caption")
+				.text("Proportion of organic fields in " + year + ".");
+			var mapContainer = $("<div></div>")
+				.attr("id", "" + year)
+				.addClass("year-map")
+				.append(map)
+				.append(legend);
+			buttons.append(button);
+			maps.append(mapContainer);
+		}
+	}
+	
 	function show(id) {
-		document.getElementById('2008').style.display = "none";
-		document.getElementById('2009').style.display = "none";
-		document.getElementById('2010').style.display = "none";
-		document.getElementById('2011').style.display = "none";
-		document.getElementById(id).style.display = "block";
+		$(".year-map").hide();
+		$("#" + id).show();
 	} 
+	
+	$(function() {importMaps(); show(2016);});
 	</script>
 </html>

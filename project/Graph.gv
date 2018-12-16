@@ -1,0 +1,26 @@
+graph {
+	0 [label=Lidl]
+	1 [label="Magasins U"]
+	2 [label="Intermarché"]
+	3 [label=Cora]
+	4 [label=Auchan]
+	5 [label=Carrefour]
+	6 [label=Leclerc]
+	7 [label=Franprix]
+	8 [label=Casino]
+	9 [label=Picard]
+		1 -- 0
+		2 -- 0
+		2 -- 1
+		3 -- 0
+		3 -- 1
+		3 -- 2
+		5 -- 4
+		6 -- 4
+		6 -- 5
+		7 -- 4
+		7 -- 5
+		7 -- 6
+		8 -- 6
+		8 -- 7
+}

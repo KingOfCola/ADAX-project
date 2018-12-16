@@ -53,15 +53,50 @@
       <div class="jumbotron bg-light">
             <div class="col-md-12">
               <h1>Food inequalities accross society</h1>
+              <br>
+              <br>
+              We have seen before that a huge part of french population was overweight. However we're not all equally likely to be overweight.
+              We have identified three factors that appear to be correlated with weight. Even if we do not display all the statistical background behind this,
+              we've selected only the factors where the trend was statistically significant.
+              <br>
+              <br>
+              Let's look into it in more detail...
+              <br>
+              <br>
               <h3>Age</h3>
+              Age appears to be a very good predictor of BMI. If young people are quite unlikely to be overweight, 
+              the probability to put on weight seems to increase with age. 
               <div class="col-md-13">
                 <iframe class="boxplots" src="../visualisations/age.html" frameBorder="0"></iframe> 
-             </div>
+              </div>
+              <i>
+              If you want to have additional information, put your mouse over the boxplots.
+              You can also click on scatterplot, it will make every individual appears (men in blue, women in red), put your mouse over them to know more about them.
+              </i>
+              <br>
+              <br>
+              By displaying the scatterplot, you can notice that women are over-represented in both tails of the distribution: they are the more likely to be 
+              underweight as well as severely obese. We can find different reasons to this. Pathologies like anorexia seem to affect preferentially women,
+              this could explain the over representation of women among underweight people. On the other hand, the way BMI is computed (by dividing weight by the square of 
+              the height) can lead to favour small people as obese outliers; as women are generally smaller than men this could explain why they tend to be also
+              over represented among the very high BMI outliers.
+              <br>
+              <br>
               <h3>Diploma</h3>
+              Interestingly, diploma correlates very well with BMI. The more advanced degree you have, the less likely you are to be overweight.
+              We expect then to see a similar trend in social classes.
               <div class="col-md-13">
                 <iframe class="boxplots" src="../visualisations/diploma.html" frameBorder="0"></iframe> 
               </div>
               <h3>Social class</h3>
+              We see a convergence of the two previous factors:
+              <ul>
+                <li>Students are less likely to be overweight than retired people. This is coherent with the age study.</li>
+                <li>Working class people suffer more from overweight than middle class ones, which themselves are more likely to be overweight
+                than upper class persons. This is consistent with the analysis of diploma (if you visualize the scatterplot you will see that
+                diploma is a good indicator of social class). This is also in line with previous studies that have shown that upper class
+                people use to have healthier food habits.</li>
+              </ul>
               <div class="col-md-13">
                 <iframe class="boxplots" src="../visualisations/social_class.html" frameBorder="0"></iframe> 
               </div>

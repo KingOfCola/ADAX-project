@@ -21,7 +21,7 @@ Quality and transparency of food products in France is a sensitive question nowa
 <li>OpenFoodFacts:
 <ul>
 <li>More than 1 million of products referenced by barcode, containing information about nutritional values.</li>
-<li>It is a huge database hard to access directly. We will probably use the API, the CSV file weighting more than 1.7GB.
+<li>It is a huge database hard to access directly. We will probably use the API, the CSV file weighting more than 1.7GB.</li>
 <li>Many fields contain blanks, NaN values or are not relevant (Labels occurring only once for instance). </li>
 <li>Many fields will need to be casted to more adequate types (floats, integers, datetime or timestamps)</li>
 <li>Most of the names will be hard to match with the ANSES study database.</li>

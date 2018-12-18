@@ -3,7 +3,7 @@
 # Abstract
 Quality and transparency of food products in France is a sensitive question nowadays, as showed the heated debate over the "Agriculture and Alimentation" law voted this year by the French Parliament. By crossing analysis of the Open Food Database and a 2015 ANSES study covering the food habits of 4000 people over a week, we want to observe to what extend quality food is available for the different social groups, and which forms the food inequalities take in France. We will establish correlations between level of education, income, lifestyle, and the nutritional or ecological quality of the food that people eat. These stakes are absolutely essential today as the climate change will probably force people to change massively their habits, but it is not sure that a switch to organic food would be sustainable for the lower income households.
 
-<a href="https://kingofcola.github.io/ADAX-project/data_story/index.html">Visualization</a>
+<a href="https://kingofcola.github.io/ADAX-project/data%20story/pages/introduction.html">Visualization</a>
 
 # Research questions
 * Do different socio-professional groups have very distinct food habits ? Does those habits depend rather on the income, the education level, the area of residence ?
